@@ -1,0 +1,11 @@
+# Write your code here :-)
+print('Helo Word')
+print('Esse é o meu primeiro script')
+print("Estou aprendendo Python")
+print(1+2)
+print(type('500'))
+print(5+int('5'))
+help(print)
+
+x = input()
+print ('entrei :'+ x)
