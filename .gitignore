@@ -21,10 +21,12 @@ pip-delete-this-directory.txt
 
 # Virtual environments
 .venv/
+.venv_old/
 venv/
 ENV/
 env/
 /.env
+*.env
 
 # Pytest
 .pytest_cache/

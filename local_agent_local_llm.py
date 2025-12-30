@@ -25,7 +25,8 @@ db=SqliteDb(db_file="tmp/pdfreaderagent.db")
 #modelLLM = AutoModel.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
 
 
-embeddings =OllamaEmbedder(id="nomic-embed-text", host="http://localhost:11434",dimensions=768, timeout=30)
+#embeddings =OllamaEmbedder(id="nomic-embed-text", host="http://localhost:11434",dimensions=768, timeout=30)
+embeddings =OllamaEmbedder(id="llama3.2:latest", host="http://localhost:11434",dimensions=3072, timeout=30)
 
 #RAG with PDF Reader
 vector_db = ChromaDb(
@@ -54,7 +55,7 @@ knowledge.add_content(
         "sector": "HR Solutions",
         "country": "US"
     },
-    skip_if_exists=True
+    skip_if_exists=False
 )
 results = vector_db.search("PEO Services", limit=10)
 for i, d in enumerate(results, 1):
@@ -95,7 +96,7 @@ agent = Agent(
     name="Local Agent with Local LLM",
     #model=OpenAIChat(id="gpt-5-mini"),
     #model=modelLLM,
-    model=Ollama(id="granite3.2:2b",host="http://localhost:11434", format="json",  
+    model=Ollama(id="llama3.2:latest",host="http://localhost:11434", format="json",  
         # options={
         #     "temperature": 0.1,
         #     "top_p": 0.8,
@@ -105,12 +106,12 @@ agent = Agent(
         #     "num_ctx": 4096,
         # }
         ## fast option
-        options={
-  "temperature": 0.1, "top_p": 0.8, "top_k": 20, "repeat_penalty": 1.12,
-  "num_ctx": 1024, "num_predict": 128,
-  "num_threads": 8, "num_batch": 64,
-  "keep_alive": "10m",
-}
+#         options={
+#   "temperature": 0.1, "top_p": 0.8, "top_k": 20, "repeat_penalty": 1.12,
+#   "num_ctx": 1024, "num_predict": 128,
+#   "num_threads": 8, "num_batch": 64,
+#   "keep_alive": "10m",
+# }
       ## fast but more acurate
 #        options={
 #   "temperature": 0.1, "top_p": 0.9, "top_k": 30, "repeat_penalty": 1.10,
@@ -128,12 +129,12 @@ agent = Agent(
     enable_agentic_culture=True,
     knowledge=knowledge,
     add_knowledge_to_context=True,
-    instructions="For document questions, answer ONLY using the provided knowledge context; if the answer is not explicitly supported, reply exactly 'NOT FOUND IN DATABASE' and do not guess.",
+    instructions="Do not summarize;For document questions, answer ONLY using the provided knowledge context; if the answer is not explicitly supported, reply exactly 'NOT FOUND IN DATABASE' and do not guess.",
     description="Agent to test local exeuciont of agno code with local llm models"
 )
 
 agent.print_response(
-    "Do not summarize; extract the answer. If the exact 2024 PEO services value is not explicitly present in the provided context, return {\"value\": null, \"evidence\": null}.",
+    "What is 2024 PEO services value ?If is not explicitly present in the provided context, return {\"value\": null, \"evidence\": null}.",
     verbose=False,
     stream=True,
     session_id="local_agent_local_llm",
