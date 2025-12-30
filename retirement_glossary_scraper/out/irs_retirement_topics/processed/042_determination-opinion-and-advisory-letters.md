@@ -1,42 +1,34 @@
 ---
 number: 42
 source_url: https://www.irs.gov/retirement-plans/determination-opinion-and-advisory-letters
-downloaded_at: 2025-12-30T11:15:55.065007
-processed_at: 2025-12-30T11:28:19.614925
+downloaded_at: 2025-12-30T12:52:25.041676
+processed_at: 2025-12-30T13:03:59.735772
 ---
 
 # Determination, Opinion and Advisory Letters
 
-## What are Determination, Opinion and Advisory Letters?
+## What is a Favorable Determination Letter?
 
-Determination, opinion and advisory letters are official documents issued by the Internal Revenue Service (IRS) that provide guidance to employers and other taxpayers on how to comply with tax laws.
+A favorable determination letter is a document issued by the IRS that confirms an employer's retirement plan meets certain requirements. It serves as proof of compliance with the IRS rules.
 
-### How to Get a Letter
+### Scope and Benefit of a Letter
 
-To get a letter, you must first determine if your retirement plan is eligible for a favorable determination letter. To do this:
+*   Scope: A determination letter indicates whether your retirement plan is eligible for exemption from employment tax.
+*   Benefit: Having a favorable determination letter can help you avoid audits, penalties, and interest on unpaid employment taxes.
 
-*   Check if your plan is pre-approved by the IRS.
-*   If not, apply for a favorable determination letter through the Employee Plans Determination Letter Program.
+## Applying for a Letter
 
-### Types of Letters
+To apply for a determination letter, follow these steps:
 
-The IRS issues two types of letters:
+1.  **Check the Eligibility**: Ensure that your retirement plan meets the IRS requirements.
+2.  **Submit the Application**: Complete Form 5500-EZ (Annual Return of Employee Benefit Plan) and attach the required supporting documentation to Form 5500-ESA (Application for Determination Letter).
+3.  **Pay the Filing Fee**: Pay the required filing fee, which varies depending on the plan's type and size.
+4.  **Wait for Processing**: The IRS will review your application and respond with a determination letter.
 
-*   **Determination Letter**: An official document that confirms whether your retirement plan meets IRS standards.
-*   **Opinion or Advisory Letter**: A non-binding document that provides guidance on how to comply with tax laws.
+## What's New
 
-### Benefits of a Determination Letter
+### Announcement 2020-14
 
-Having a determination letter can help you avoid penalties and interest by:
-
-*   Demonstrating compliance with tax laws
-*   Providing evidence for audits or investigations
-*   Facilitating plan maintenance and administration
-
-### How to Use Your Letter
-
-Once you receive your determination letter, use it to:
-
-*   Maintain accurate records of your plan's compliance
-*   Make informed decisions about your plan's operations and funding
-*   Demonstrate compliance with tax laws during audits or investigations
+*   Changes to User Fees
+    *   Deadline to submit pre-approved DC plans extended
+    *   Form 5310 Retroactive User Fee Change – Rev. Proc. 2018-19

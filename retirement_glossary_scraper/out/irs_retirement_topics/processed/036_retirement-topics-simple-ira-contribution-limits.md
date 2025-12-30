@@ -1,26 +1,40 @@
 ---
 number: 36
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits
-downloaded_at: 2025-12-30T11:15:39.339380
-processed_at: 2025-12-30T11:27:03.092675
+downloaded_at: 2025-12-30T12:52:09.667991
+processed_at: 2025-12-30T13:02:44.370846
 ---
 
 # Retirement Topics - SIMPLE IRA Contribution Limits
+
 ## Introduction
+The SIMPLE (Savings Incentive Match Plan for Employees Individual Retirement Account) IRA contribution limits determine how much you, as an employee or business owner, can contribute to a SIMPLE IRA plan each year.
 
-This section provides information on the contribution limits for SIMPLE IRAs, including salary reduction contributions, employer matching and nonelective contributions.
+## Contributions
+Contributions include:
 
-### Salary Reduction Contributions
+* Salary reduction contributions: the amount an employee contributes from their salary to a SIMPLE IRA cannot exceed $16,000 in 2024.
+* Employer matching contributions: employers must match employee salary reduction contributions on a dollar-for-dollar basis up to 3% of compensation. Employers may also choose to make nonelective contributions of 2% of eligible employees' compensation.
 
-* The amount an employee contributes from their salary to a SIMPLE IRA cannot exceed $16,000 in 2024.
-* If an employee participates in any other employer plan during the year and has elective salary reductions under those plans, the total amount of the salary reduction contributions that an employee can make to all the plans he or she participates in is limited to $23,000 in 2024.
+## Catch-up Contributions
+If you are age 50 or over at the end of the calendar year, you can make catch-up contributions to your SIMPLE IRA plan, which is $3,500 in 2023 and 2024.
 
-### Catch-up Contributions
+## Nonelective Contributions
+Employers may choose to make nonelective contributions instead of matching contributions. If an employer makes this choice, they must notify employees within a reasonable period before the 60-day election period for the calendar year.
 
-* If permitted by the SIMPLE IRA plan, participants who are age 50 or over at the end of the calendar year can also make catch-up contributions. The catch-up contribution limit for SIMPLE IRA plans is $3,500 in 2023 and 2024.
+## Time Limits for Contributing Funds
+Employers must deposit employees' salary reduction contributions to the SIMPLE IRA within 30 days after the end of the month in which the employee would have received them in cash. They must also make matching contributions or nonelective contributions by the due date (including extensions) of their federal income tax return.
 
-### Employer Matching and Nonelective Contributions
+## Important Dates
 
-* The employer is generally required to match each employee's salary reduction contributions on a dollar-for-dollar basis up to 3% of the employee's compensation.
-* An employer may choose to make a matching contribution less than 3%, but it must be at least 1% and for no more than 2 out of 5 years.
-* Instead of matching contributions, an employer can choose to make nonelective contributions of 2% of each eligible employee's compensation.
+* $16,000: the maximum amount an employee can contribute to a SIMPLE IRA in 2024.
+* 3%: the maximum percentage of compensation that employers must match for salary reduction contributions.
+* 2%: the percentage of eligible employees' compensation that employers may choose to make nonelective contributions of.
+* $3450,000: the compensation amount up to which an employer's contributions are taken into account when determining the contribution limit.
+* $3,500: the catch-up contribution limit for SIMPLE IRA plans in 2023 and 2024.
+* March 1st (or the next business day): the due date for employers to deposit employees' salary reduction contributions.
+
+## Resources
+
+* Notice 98-4: for more information on employer matching contributions.
+* IRS Publication 590-B: for general information about SIMPLE IRAs.

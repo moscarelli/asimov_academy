@@ -1,41 +1,54 @@
 ---
 number: 43
 source_url: https://www.irs.gov/retirement-plans/letter-status
-downloaded_at: 2025-12-30T11:15:57.572539
-processed_at: 2025-12-30T11:28:32.280170
+downloaded_at: 2025-12-30T12:52:27.665600
+processed_at: 2025-12-30T13:04:13.662002
 ---
 
 # Letter Status
+## Determination, Opinion and Advisory Letter for Retirement Plans
 
-## Determination, Opinion and Advisory Letters for Retirement Plans
-
-Check the status of your letter to determine if you are eligible for certain retirement plans.
+Check the status of your letter to determine if your plan is compliant with IRS regulations.
 
 ### What Happens After I Submit My Application?
 
-After submitting your application, you will receive an acknowledgement notice from the IRS. You can then check the status of your application by contacting us directly or by using our online resources.
+After submitting your application for a determination letter, you will receive an acknowledgement notice. An employee plans specialist will contact you for additional information once your application has been assigned.
 
-### Checking the Status of Your Letter
+### Has My Application Been Assigned to a Specialist?
 
-If you submitted your application before the postmark date listed below, and we have not contacted you yet, please contact us to verify the status of your letter. We will respond to your inquiry via phone, fax, or mail.
+If you submitted your application during or after the postmark date in the chart below, and you received an acknowledgement notice, then we have received your application but have not yet assigned it to a specialist. Keep checking this webpage for updates and await IRS contact.
 
-* Form 5307: Application for Determination for Adopters of Master or Prototype or Volume Submitter Plans - May 22, 2024
-* Form 5300: Application for Determination for Employee Benefit Plan - May 6, 2024
-* Form 5310: Application for Determination Upon Termination (Info Copy Only) - May 17, 2024
-* Form 5316: Application for Group or Pooled Trust Ruling - September 16, 2024
+| Form Number | Postmark Date |
+| --- | --- |
+| 5307 | May 22, 2024 |
+| 5300 | May 6, 2024 |
+| 5310 | May 17, 2024 |
+| 5316 | September 16, 2024 |
 
-### How to Request a Copy of or a Correction to a Previously Issued Letter
+### How Do I Check the Status of My Letter After It Has Been Assigned to a Specialist?
 
-To request a copy of or a correction to a previously issued letter, please contact us directly.
+If you submitted your application before the postmark date in the chart above, and the IRS has not contacted you regarding your application, you can contact us by phone, fax, or mail to check on the status of your letter.
 
-## Related Resources
+### Required Information
 
-- [Determination Program Rev. Proc. 2016-37](link)
-- [How to Request a Copy of or a Correction to a Previously Issued Letter](link)
+* Name of the employer;
+* Employer’s employer identification number (available on the Form W-2);
+* Name of the plan;
+* Plan number;
+* Application number;
+* Date application was submitted;
+* Indicate whether or not you are the plan sponsor, working for the plan sponsor or a plan participant;
 
-### Contact Us
+### Contact Information
+
+You can contact us by:
 
 * Phone: 877-829-5500 (toll-free)
 * Fax: 855-224-1311
-* Mail: Internal Revenue Service, P.O. Box 2508, Room 6-403, Group 7535, Cincinnati, OH 45202
-* Express and Overnight Delivery: Internal Revenue Service, Room 6-403, Group 7535, 550 Main Street, Cincinnati, OH 45202
+* Mail: Internal Revenue Service, EP Determinations, Attn: Manager, EP Correspondence, P.O. Box 2508, Room 6-403, Group 7535, Cincinnati, OH 45202
+* Express and overnight delivery: Internal Revenue Service, Room 6-403, Group 7535, 550 Main Street, Cincinnati, OH 45202, Attn: Manager, EP Correspondence
+
+### Additional Resources
+
+* How to request a copy of or a correction to a previously issued letter
+* Page Last Reviewed or Updated: August 26, 2025

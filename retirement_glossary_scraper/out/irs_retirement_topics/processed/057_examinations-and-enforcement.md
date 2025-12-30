@@ -1,30 +1,37 @@
 ---
 number: 57
 source_url: https://www.irs.gov/retirement-plans/examinations-and-enforcement
-downloaded_at: 2025-12-30T11:16:33.634116
-processed_at: 2025-12-30T11:30:54.875649
+downloaded_at: 2025-12-30T12:53:05.175791
+processed_at: 2025-12-30T13:06:54.408028
 ---
 
-Tax Withholding Estimator
-Estimate how much tax you'll pay based on your income, filing status, and the number of dependents.
-
-Amend Return
-Learn how to file an amended return if you need to correct or add information from a previous tax year.
-
-Identity Protection PIN (IP PIN)
-Apply for an Identity Protection PIN if your Social Security number has been assigned to you.
-
-Tax Records
-Access and download your tax records, including transcripts and payment history.
-
-Earned Income Tax Credit (EITC)
-Learn about the Earned Income Tax Credit, a refundable credit for working individuals and families.
-
-Standard Deduction
-Determine your standard deduction based on filing status and income level.
-
 Examinations and Enforcement
-Find information on audits, examinations, and enforcement actions related to retirement plans.
+==========================
 
-Retirement Plans
-Access resources on different types of retirement plans, including IRAs and 401(k) plans.
+### Overview
+
+The Employee Plans Examinations (EP) group is responsible for overseeing compliance with the retirement plan provisions of the Internal Revenue Code. This includes protecting plan assets and ensuring participants' rights are protected.
+
+### Examination Process
+
+*   Conducting audits to analyze operational features of retirement plans
+*   Using a centralized examination case selection and review process to enhance consistency and focus resources on high-risk areas
+*   Review procedures to help find and prevent mistakes in administering plans
+
+### International Issues
+
+*   Addressing international tax compliance issues as an IRS priority
+*   Focusing on addressing abuse of retirement plans involving cross-border transactions
+
+### Audit Closing Agreement Program
+
+*   Resolving plan errors found during EP examinations through the Audit Closing Agreement Program (Audit CAP)
+
+### Retirement Plan Reporting and Disclosure
+
+*   Providing resources for Forms 5500, 5300, 8955-SSA, and participant disclosure notices
+*   Offering information on compliance trends and tips from past and current EP examinations
+
+### Abusive Tax Transactions
+
+*   Identifying and addressing abusive tax avoidance transactions involving retirement plans to maintain confidence in the voluntary tax system

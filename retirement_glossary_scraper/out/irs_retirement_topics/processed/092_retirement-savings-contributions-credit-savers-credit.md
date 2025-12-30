@@ -1,92 +1,53 @@
 ---
 number: 92
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit
-downloaded_at: 2025-12-30T11:18:05.922654
-processed_at: 2025-12-30T11:37:49.913500
+downloaded_at: 2025-12-30T12:54:50.629214
+processed_at: 2025-12-30T13:13:58.263245
 ---
 
-# Retirement Savings Contributions Credit (Saver’s Credit)
+Retirement Savings Contributions Credit (Saver’s Credit)
 
-## Eligibility for the Credit
+You are eligible for the credit if you're:
 
-You're eligible for the credit if you're:
+Age 18 or older,
+Not claimed as a dependent on another person's return, and
+Not a student.
 
-*   Age 18 or older,
-*   Not claimed as a dependent on another person’s return, and
-*   Not a student.
+You were a student if during any part of 5 calendar months of the tax year you:
 
-## When to File
+Were enrolled as a full-time student at a school, or
+Took a full-time, on-farm training course given by a school or a state, county, or local government agency.
+A school includes technical, trade, and mechanical schools. It does not include on-the-job training courses, correspondence schools, or schools offering courses only through the Internet.
 
-You must file Form 8880 with your tax return to claim the Saver's Credit. The form is available on the IRS website or can be obtained by calling the IRS at 1-800-829-3676 (individuals) or 1-800-829-4933 (businesses).
+The amount of the credit is 50%, 20% or 10% of:
 
-## Tax Year Limits
+contributions you make to a traditional or Roth IRA,
+elective salary deferral contributions to a 401(k), 403(b), governmental 457(b), SARSEP, or SIMPLE plan,
+voluntary after-tax employee contributions made to a qualified retirement plan (including the federal Thrift Savings Plan) or 403(b) plan,
+contributions to a 501(c)(18)(D) plan, or
+contributions made to an ABLE account for which you are the designated beneficiary (beginning in 2018).
 
-The credit is only available for contributions made to a traditional IRA, Roth IRA, 401(k), 403(b), governmental 457(b), SARSEP, or SIMPLE plan. The maximum contribution amount that may qualify for the credit is $2,000 ($4,000 if married filing jointly).
+Rollover contributions do not qualify for the credit. Also, your eligible contributions may be reduced by any recent distributions you received from a retirement plan or IRA, or from an ABLE account.
 
-## Credit Amounts
+The maximum contribution amount that may qualify for the credit is $2,000 ($4,000 if married filing jointly), making the maximum credit $1,000 ($2,000 if married filing jointly).
 
-The credit amounts are as follows:
+Example:
+Jill, who works at a retail store, is married and earned $41,000 in 2021. Jill's spouse was unemployed in 2021 and didn't have any earnings. Jill contributed $2,000 to her IRA for 2021. After deducting her IRA contribution, the adjusted gross income shown on her joint return is $39,000. Jill may claim a 50% credit of $1,000 for her $2,000 IRA contribution on her 2021 tax return.
 
-*   Married Filing Jointly: 50% of contributions (maximum credit: $1,000)
-*   Head of Household: 20% of contributions (maximum credit: $400)
-*   All Other Filers: 10% of contributions (maximum credit: $200)
+**Credit Rate**
 
-## Rollover Contributions
-
-Rollover contributions do not qualify for the credit. Your eligible contributions may be reduced by any recent distributions you received from a retirement plan or IRA, or from an ABLE account.
-
-## Credit Rate Table
-
-|   |   | Eligible Filing Status  |
-|   |   | Married Filing Jointly    |
-|   |   | Head of Household         |
-|   |   | All Other Filers          |
-
-| Income Limits  | Credit Rate        |
-|-----------------|--------------------|
-| $46,000 or less | 50%                |
-| $46,001 - $50,000 | 20%               |
-| $50,001 - $76,500 | 10%                |
-| More than $76,500 | 0%                 |
-
-|   |   | Eligible Filing Status  |
-|   |   | Married Filing Jointly    |
-|   |   | Head of Household         |
-|   |   | All Other Filers          |
-
-| Income Limits  | Credit Rate        |
-|-----------------|--------------------|
-| $43,500 or less | 50%                |
-| $43,501 - $47,500 | 20%               |
-| $47,501 - $73,000 | 10%                |
-| More than $73,000 | 0%                 |
-
-You can use the chart below to calculate your credit amount based on your adjusted gross income.
-
-### Credit Amount Chart
-
-|   |   | Adjusted Gross Income  |
-|   |   | Married Filing Jointly    |
-|   |   | Head of Household         |
-|   |   | All Other Filers          |
-
-| Income Limits  | Credit Rate        |
-|-----------------|--------------------|
-| $46,000 or less | $1,000             |
-| $46,001 - $50,000 | $200                |
-| $50,001 - $76,500 | $100                 |
-| More than $76,500 | 0%                  |
-
-|   |   | Adjusted Gross Income  |
-|   |   | Married Filing Jointly    |
-|   |   | Head of Household         |
-|   |   | All Other Filers          |
-
-| Income Limits  | Credit Rate        |
-|-----------------|--------------------|
-| $43,500 or less | $1,000             |
-| $43,501 - $47,500 | $200                |
-| $47,501 - $73,000 | $100                 |
-| More than $73,000 | 0%                  |
-
-You can also calculate the credit amount using the IRS tax software.
+* Married filing jointly: 
+    * AGI not more than $46,000: 50% of your contribution
+    * $46,001- $50,000: 20% of your contribution
+    * $50,001 - $76,500: 10% of your contribution
+    * More than $76,500: 0% of your contribution
+* Head of household:
+    * AGI not more than $34,500: 50% of your contribution
+    * $34,501- $37,500: 20% of your contribution
+    * $37,501 - $57,375: 10% of your contribution
+    * More than $57,375: 0% of your contribution
+* All other filers:
+    * AGI not more than $23,000: 50% of your contribution
+    * $23,001- $25,000: 20% of your contribution
+    * $25,001 - $38,250: 10% of your contribution
+    * More than $38,250: 0% of your contribution

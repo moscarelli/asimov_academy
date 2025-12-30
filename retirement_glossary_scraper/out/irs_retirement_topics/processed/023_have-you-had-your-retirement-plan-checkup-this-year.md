@@ -1,61 +1,68 @@
 ---
 number: 23
 source_url: https://www.irs.gov/retirement-plans/have-you-had-your-retirement-plan-checkup-this-year
-downloaded_at: 2025-12-30T11:15:06.887356
-processed_at: 2025-12-30T11:24:41.736527
+downloaded_at: 2025-12-30T12:51:36.730223
+processed_at: 2025-12-30T13:00:18.738896
 ---
 
-# Retirement Plan Checkup
+# Retirement Plan Checkup: A Guide for Individuals and Businesses
 
 Have you had your retirement plan checkup this year?
 
-A retirement plan needs regular care to keep it operating properly. Your plan’s care should include a regular review of your plan's basic operations.
+## One-Page Checklists for a Quick Review
 
-### One-Page Checklists
+Regularly reviewing your plan's basic operations is essential to keep it operating properly. These one-page checklists are a quick way to start your review.
 
-These one-page checklists are a quick way to start your review. Each checklist links to a Fix-It Guide with tips on how to find, fix and avoid each potential error.
+### SIMPLE IRA Checklist
+PDF
 
-*   [SIMPLE IRA Checklist](link)
-*   [SEP Checklist](link)
-*   [SARSEP Checklist](link)
-*   [401(k) Plan Checklist](link)
-*   [403(b) Plan Checklist](link)
+### SEP Checklist
+PDF
 
-### Sample Checklist Questions
+### SARSEP Checklist
+PDF
 
-Has your plan document been updated within the past few years to reflect recent law changes?
+### 401(k) Plan Checklist
+PDF
 
-Are the plan's operations based on the plan document's terms?
+### 403(b) Plan Checklist
+PDF
 
-Are all eligible employees participating in the plan?
+## What to Check for:
 
-What do your checklist answers mean?
+* Has your plan document been updated within the past few years to reflect recent law changes?
+* Are the plan's operations based on the plan document's terms?
+* Are all eligible employees participating in the plan?
 
-Answering "no" to any of the checklist questions tells you that you may have a mistake in your plan operation. The expanded explanation for each question – the "Fix-it Guide" - gives you an example of how to correct the mistake.
+## Errors You Might Find:
 
-### Common Mistakes
+* Not covering the proper employees
+* Not giving employees required information
+* Not depositing employee deferrals timely
+* Not depositing employer contributions timely
+* Not following the terms of the plan document
+* Not limiting employee deferrals and employer contributions to the proper maximum limits
 
-Your checklist answers might uncover the following common mistakes:
-
-*   not covering the proper employees
-*   not giving employees required information
-*   not depositing employee deferrals timely
-*   not depositing employer contributions timely
-*   not following the terms of the plan document
-*   not limiting employee deferrals and employer contributions to the proper maximum limits
-
-### Correction Programs
+## Correction Programs
 
 The IRS has helpful correction programs structured to provide financial incentives to find and correct mistakes earlier rather than later. You can correct many mistakes easily, without penalty and without notifying the IRS.
 
 ### Additional Resources
 
-*   [Plan Sponsor's Responsibilities](link)
-*   [Publication 560: Retirement Plans for Small Business (SEP, SIMPLE, and Qualified Plans)](link)
-*   [Publication 3998: Choosing a Retirement Solution for Your Small Business](link)
-*   [Publication 4222: 401(k) Plans for Small Businesses](link)
-*   [Publication 4333: SEP Retirement Plans for Small Businesses](link)
-*   [Publication 4334: SIMPLE IRA Plans for Small Businesses](link)
-*   [Publication 4336: SARSEP for Small Businesses](link)
-*   [Publication 4483: Tax-Sheltered Annuity Plans for Sponsors](link)
-*   [Publication 4484: Choose a Retirement Plan for Employees of Tax Exempt and Government Entities](link)
+* Plan Sponsor's Responsibilities
+* Publication 560, Retirement Plans for Small Business (SEP, SIMPLE, and Qualified Plans)
+PDF
+* Publication 3998, Choosing a Retirement Solution for Your Small Business
+PDF
+* Publication 4222, 401(k) Plans for Small Businesses
+PDF
+* Publication 4333, SEP Retirement Plans for Small Businesses
+PDF
+* Publication 4334, SIMPLE IRA Plans for Small Businesses
+PDF
+* Publication 4336, SARSEP for Small Businesses
+PDF
+* Publication 4483, Tax-Sheltered Annuity Plans for Sponsors
+PDF
+* Publication 4484, Choose a Retirement Plan for Employees of Tax Exempt and Government Entities
+PDF

@@ -1,31 +1,51 @@
 ---
 number: 2
 source_url: https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras
-downloaded_at: 2025-12-30T11:14:13.548094
-processed_at: 2025-12-30T11:20:33.268406
+downloaded_at: 2025-12-30T12:50:38.945729
+processed_at: 2025-12-30T12:56:13.321793
 ---
 
 # Individual Retirement Arrangements (IRAs)
 
+## What is an IRA?
+An IRA is a tax-deferred investment plan that helps you save for retirement.
+
 ## Types of IRAs
 
-*   **Traditional IRA**: A tax-advantaged personal savings plan where contributions may be tax deductible.
-*   **Roth IRA**: A tax-advantage personal savings plan where contributions are not deductible but qualified distributions may be tax-free.
+*   **Traditional IRA**: Contributions may be tax-deductible.
+*   **Roth IRA**: Contributions are not deductible, but qualified distributions may be tax-free.
 
-### Employer-Sponsored IRAs
+## Setting Up an IRA
 
-*   **SEP (Simplified Employee Pension)**: A Simplified Employee Pension plan set up by an employer. Contributions are made by the employer directly to an IRA set up for each employee.
-*   **SIMPLE (Savings Incentive Match Plan for Employees)**: A Savings Incentive Match Plan for Employees set up by an employer. Under a SIMPLE IRA plan, employees may choose to make salary reduction contributions, and the employer makes matching or nonelective contributions.
-*   **SARSEP (Salary Reduction Simplified Employee Pension Plan)**: A type of SEP set up by an employer before 1997 that includes a salary reduction arrangement.
+You can set up an IRA with a:
+
+*   Bank or other financial institution
+*   Life insurance company
+*   Mutual fund
+*   Stockbroker
 
 ## Investing Your IRA Assets
 
-*   The IRS Does Not Approve IRA Investments. See [IRA FAQs - Investments](link to relevant page)
-*   Resources from the Department of Labor can help you get started on investing for your future.
-*   Contribution limits apply to IRAs, and deduction limits may also apply to certain contributions.
+The IRS does not approve certain investments for IRAs. Some resources from the Department of Labor can help you get started on investing for your future.
 
-## Distribution Rules
+## Contribution Limits
 
-*   **Required Minimum Distributions (RMDs)**: You must take RMDs from a traditional IRA starting at age 72.
-*   **Roth IRA distributions**: Qualified distributions from a Roth IRA are tax-free.
-*   Tax on early distributions and exceptions apply.
+Contribution limits vary depending on age and income. Deduction limits apply to traditional IRA contributions.
+
+## Rollovers
+Rollover requirements may be waived in certain circumstances.
+
+## Distributions
+
+Required minimum distributions (RMDs) must be made by April 1 of each year after the initial distribution. RMDs can be calculated using a worksheet.
+
+## Beneficiaries
+Spousal and non-spousal beneficiaries may be eligible for IRA benefits.
+
+## Saver's Credit
+Individuals may qualify for up to $1,000 in tax credit if they make eligible contributions to an IRA.
+
+## Additional Resources
+
+*   Forms and publications related to IRAs
+*   FAQs and other resources

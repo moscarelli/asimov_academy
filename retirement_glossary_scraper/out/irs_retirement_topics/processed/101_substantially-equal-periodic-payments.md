@@ -1,42 +1,62 @@
 ---
 number: 101
 source_url: https://www.irs.gov/retirement-plans/substantially-equal-periodic-payments
-downloaded_at: 2025-12-30T11:18:27.655505
-processed_at: 2025-12-30T11:39:30.361417
+downloaded_at: 2025-12-30T12:55:13.740303
+processed_at: 2025-12-30T13:15:35.646648
 ---
 
-Substantially Equal Periodic Payments
-=====================
+# Substantially Equal Periodic Payments
+## Introduction
 
-What is a Substantially Equal Periodic Payment?
----------------------------------------------
+Substantially equal periodic payments (SoSEPP) are a way to take distributions from certain retirement plans without incurring the 10% additional tax on early distributions. In this article, we will explain how SoSEPPs work and provide guidance on their application.
 
-A Substantially Equal Periodic Payment (SoSEPP) is a way to make regular payments from a retirement account without having to withdraw the entire balance at once. SoSEPPs are allowed under Section 72(t)(2)(A)(iv) of the Internal Revenue Code.
+## What is a Substantially Equal Periodic Payment?
 
-### Exceptions to the 10% Additional Tax
+A SoSEPP is a series of payments made at regular intervals over an individual's life expectancy or the life expectancies of the taxpayer and the taxpayer's designated beneficiary. These payments are determined to be substantially equal in value and amount, with respect to the period covered by the applicable rules.
 
-There is an exception to the 10% additional tax on early distributions from certain retirement plans if the payments are made as a series of substantially equal periodic payments for life. This applies if:
+## Are SoSEPPs Available for All Retirement Plans?
 
-*   The taxpayer must be separated from service with the employer maintaining the plan before the payments begin.
-*   Once established, the taxpayer cannot make any additions to the account or take any payments from the account, other than the SoSEPP payments.
-*   The taxpayer cannot have more than one SoSEPP in effect for the account for any year.
+SoSEPPs are available for qualified retirement plans, including:
 
-### Determining the Annual Amount
+*   401(a) plans
+*   Annuity plans described in Section 403(a)
+*   Annuity contracts described in Section 403(b)
+*   Individual retirement accounts (IRAs) described in Section 408(a)
+*   Individual retirement annuities described in Section 408(b)
 
-The annual amount of a SoSEPP is determined under one of three methods:
+## How Do I Determine My Life Expectancy?
 
-1.  **Actuarial Method**: This method takes into account the taxpayer's life expectancy and the expected rate of return on investments.
-2.  **Benchmarks Method**: This method uses a benchmark interest rate to determine the annual amount.
-3.  **Pension Benefit Estimator (PBES) Method**: This method uses a formula to estimate the annual amount based on the account balance.
+To determine your life expectancy, you can use the following resources:
 
-### Modifications to SoSEPP
+*   The Social Security Administration's Actuarial Life Table
+*   A qualified actuary or financial advisor
 
-If the taxpayer modifies their SoSEPP by taking an annual amount that is different from the original amount, they may be subject to additional taxes. However, if the modification is due to reason of death, disability, or dismemberment, it will not affect the prohibition against making additional contributions to the account or taking distributions from the account in addition to the SoSEPP payments.
+## Can I Split My Annual Amount into Installments During the Year?
 
-### Effects on Account Balance
+Yes, you can split your annual amount into installments during the year. However, this may affect your SoSEPP and result in additional tax.
 
-When the taxpayer receives a SoSEPP payment determined under one method, they can change to another method. However, if the account balance is completely depleted, this may impact their eligibility for future SoSEPPs.
+## What Happens if I Modify My SoSEPP?
 
-### Acceptable Methods of Determining a SoSEPP
+If you modify your SoSEPP by taking an annual amount that is different from the annual amount determined under the method originally established, you will be subject to additional tax.
 
-The three methods mentioned above are considered acceptable ways of determining a SoSEPP.
+## Can I Change to a Different Method After Receiving a SoSEPP Payment?
+
+Yes, after receiving a SoSEPP payment, you can change to a different method. However, this may result in additional tax and penalties.
+
+## How Do I Fulfill the SoSEPP Requirements for My Account?
+
+To fulfill the SoSEPP requirements for your account, you must:
+
+*   Make substantially equal periodic payments over an individual's life expectancy or the life expectancies of the taxpayer and the taxpayer's designated beneficiary
+*   Determine the annual amount using one of the three methods
+*   Not make any additions to the account or take any payments from the account in addition to the SoSEPP payments
+
+## Are There Any Other Exceptions to the 10% Additional Tax?
+
+Yes, there are other exceptions to the 10% additional tax on early distributions from certain retirement plans. These include:
+
+*   Distributions made after separation from service with the employer maintaining the plan
+*   Distributions made under a qualified SEPP
+*   Distributions made from an individual retirement account (IRA)
+
+Note: The information provided in this article is for general informational purposes only and should not be cited as any type of legal authority. You should consult a qualified tax professional or financial advisor to determine how SoSEPPs apply to your specific situation.

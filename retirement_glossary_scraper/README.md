@@ -8,7 +8,8 @@ This project scrapes IRS retirement topics, processes them into markdown, and in
 
 ```
 retirement_glossary_scraper/
-├── main.py                         # New modular main entry point
+├── main_agent.py                   # 🤖 NEW - Autonomous agent entry point
+├── main.py                         # Modular pipeline entry point
 ├── local_agent_web_scraper.py      # Original monolithic script (legacy)
 ├── query_retirement_glossary.py    # Query tool for searching the knowledge base
 ├── src/                            # Modular package components
@@ -17,21 +18,41 @@ retirement_glossary_scraper/
 │   ├── scraper.py                  # Web scraping logic
 │   ├── processor.py                # HTML to markdown processing
 │   ├── indexer.py                  # ChromaDB indexing
-│   └── utils.py                    # Utility functions
+│   ├── utils.py                    # Utility functions
+│   ├── agent_core.py               # 🤖 Autonomous agent with reasoning
+│   ├── agent_tools.py              # 🤖 Agent's 9 capabilities/tools
+│   └── agent_memory.py             # 🤖 Persistent memory system
 ├── out/
 │   └── irs_retirement_topics/
 │       ├── raw/                    # Downloaded HTML files + JSON metadata
 │       ├── processed/              # AI-processed markdown files
 │       └── discovered_urls.txt     # List of all scraped URLs
 └── tmp/
-    └── chroma_retirement_glossary/ # ChromaDB vector database
+    ├── chroma_retirement_glossary/ # ChromaDB vector database
+    └── agent_memory.json           # 🤖 Agent's persistent memory
 ```
 
 ## 🚀 Features
 
+### 🤖 Autonomous Agent Mode (NEW!)
+
+True AI agent that autonomously builds the knowledge base:
+
+- **Plans its own approach** - Decides what steps to take
+- **Adapts to results** - Changes strategy based on outcomes
+- **Has memory** - Remembers past actions and learns
+- **Goal-oriented** - Works until objective is achieved
+- **Self-monitoring** - Validates quality and progress
+- **Tool-based** - Uses 9 different capabilities strategically
+
+**Agent Components:**
+- **agent_core.py**: Autonomous agent with reasoning and planning
+- **agent_tools.py**: 9 tools the agent can choose to use
+- **agent_memory.py**: Persistent memory across sessions
+
 ### Modular Architecture
 
-The scraper is now organized into clean, reusable components:
+The scraper is organized into clean, reusable components:
 
 - **config.py**: Centralized configuration with dataclass
 - **scraper.py**: Web scraping and HTML downloading
@@ -39,7 +60,9 @@ The scraper is now organized into clean, reusable components:
 - **indexer.py**: ChromaDB vector database indexing
 - **utils.py**: Common utility functions
 
-### Web Scraper (`main.py` or `local_agent_web_scraper.py`)
+### Pipeline Modes
+
+**Traditional Pipeline** (`main.py` or `local_agent_web_scraper.py`):
 
 - **Step 1**: Discovers all retirement topic URLs from IRS website
 - **Step 2**: Downloads raw HTML content with metadata
@@ -52,6 +75,8 @@ The scraper is now organized into clean, reusable components:
 SKIP_EXISTING_RAW = True      # Skip already downloaded files
 PROCESS_CONTENT = False        # Enable HTML→Markdown processing
 WAIT_BEFORE_PROCESSING = 20   # Countdown timer (seconds)
+INDEX_TO_CHROMADB = True      # Enable ChromaDB indexing
+```
 INDEX_TO_CHROMADB = True      # Enable ChromaDB indexing
 ```
 
@@ -124,8 +149,13 @@ Query: quit  # Exit
 - Full-text and semantic search enabled
 
 ## � Documentation
-
-- **[MODULES.md](MODULES.md)**: Detailed documentation of the modular architecture
+- **[AGENT.md](AGENT.md)**: 🤖 Complete guide to the autonomous agent
+  - How the agent thinks and makes decisions
+  - Tool system and capabilities
+  - Memory system and persistence
+  - Agent vs Pipeline comparison
+  - Example sessions and workflows
+  - **[MODULES.md](MODULES.md)**: Detailed documentation of the modular architecture
   - Individual module descriptions
   - Usage examples for each component
   - Migration guide from monolithic to modular

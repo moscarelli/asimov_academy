@@ -1,26 +1,21 @@
 ---
 number: 49
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-normal-distributions
-downloaded_at: 2025-12-30T11:16:13.518139
-processed_at: 2025-12-30T11:29:32.665131
+downloaded_at: 2025-12-30T12:52:43.251902
+processed_at: 2025-12-30T13:05:23.717231
 ---
 
-# Retirement topics - Tax on normal distributions
+# Retirement Topics - Tax on Normal Distributions
 
-Retirement plans are subject to income tax on the distributions made by the plan. However, certain types of distributions may be exempt from taxation.
+Distributions from retirement plans must be included in income unless they represent an employee's own contribution, such as after-tax employee contributions, or if the distribution is a qualified distribution from a designated Roth account.
 
-## Types of Distributions
+If the employee is under age 59½, see [Tax on Early Distributions](#Tax-on-Early-Distributions).
 
-*   Qualified distributions from a designated Roth account are tax-free.
-*   After-tax employee contributions are not taxable.
-*   Distributions made before age 59 ½ may be subject to early distribution penalty.
-
-## Exemptions and Special Rules
-
-*   Certain individuals (born on or after January 2, 1936) may use special tax rules for retirement distributions.
+If the employee was born before January 2, 1936, he or she may use a special tax rule.
 
 ## Related Publications
 
 *   Publication 575: Pension and Annuity Income
 *   Publication 560: Retirement Plans for Small Business (SEP, SIMPLE, and Qualified Plans)
 *   Publication 590-B: Distributions from Individual Retirement Arrangements (IRAs)
+*   Publication 554: Tax Guide for Seniors

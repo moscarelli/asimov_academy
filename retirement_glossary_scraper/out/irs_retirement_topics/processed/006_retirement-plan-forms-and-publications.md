@@ -1,77 +1,45 @@
 ---
 number: 6
 source_url: https://www.irs.gov/retirement-plans/retirement-plan-forms-and-publications
-downloaded_at: 2025-12-30T11:14:23.620748
-processed_at: 2025-12-30T11:21:26.739065
+downloaded_at: 2025-12-30T12:50:53.127210
+processed_at: 2025-12-30T12:56:58.395736
 ---
 
 # Retirement Plan Forms and Publications
+## Overview
 
-An official website of the United States government
+The Internal Revenue Service (IRS) provides various forms and publications to help plan sponsors and participants navigate the complexities of retirement plans.
 
-## How to Identify Official Government Websites
+### Filing for Individuals
 
-Official websites use `.gov` and have a secure connection (HTTPS) with a lock icon.
-
-## Types of Tax Records and Payments
-
-*   Refunds
-*   Payments
-*   Tax records
-*   Apply for an Employer ID Number (EIN)
-*   Amend return
-*   Identity Protection PIN (IP PIN)
-
-## Retirement Plan Forms and Publications
-
-### Overview
-
-A comprehensive guide to retirement plan forms and publications.
-
-### Filing For Individuals
-
-*   **How to File**
-    *   When to file
-    *   Where to file
-    *   Update your information
-*   **Popular Topics**
-    *   Tax record (transcript)
-    *   Apply for an Employer ID Number (EIN)
-    *   Amend return
-    *   Identity Protection PIN (IP PIN)
-    *   Pay
+*   **How to File:** Complete Form 5500 or Form 5330, depending on the type of retirement plan.
+*   **When to File:** Submit returns by the required due dates, typically July 31st for large plans and March 15th for small plans.
+*   **Where to File:** Electronically through the IRS Electronic Federal Tax Payment System (EFTPS) or by mail.
 
 ### Forms and Publications
 
-#### Popular Forms & Instructions
+#### Individual Retirement Accounts (IRAs)
 
-*   [Form 1040](https://www.irs.gov/pub/irs-pdf/f1040.pdf)
-*   [Form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
-*   [Form 4506-T](https://www.irs.gov/pub/irs-pdf/f4506t.pdf)
-*   [Form W-4](https://www.irs.gov/pub/irs-pdf/fw4.pdf)
+*   **Form W-2**: Wage and Tax Statement
+*   **Form 1040**: Individual Income Tax Return
+*   **Form 2848**: Power of Attorney and Declaration of Representative
+*   **Form 5305**: Traditional Individual Retirement Trust Account
 
-#### For Tax Pros
+#### Employer-Sponsored Retirement Plans
 
-*   [Form 1040-X](https://www.irs.gov/pub/irs-pdf/f1040x.pdf)
-*   [Form 2848](https://www.irs.gov/pub/irs-pdf/f2848.pdf)
-*   [Form W-7](https://www.irs.gov/pub/irs-pdf/fw7.pdf)
+*   **Form 5500**: Employee Benefit Plan Return
+*   **Form 5330**: Annual Return of Withheld Federal Income Tax
+*   **Form 945**: Annual Return of Withheld Federal Income Tax
 
-#### Other Forms
+### Important Dates and Deadlines
 
-*   [Form 23-EP](https://www.irs.gov/pub/irs-pdf/f230ep.pdf)
-*   [Form 945](https://www.irs.gov/pub/irs-pdf/f945.pdf)
-*   [Form 990-T](https://www.irs.gov/pub/irs-pdf/f990t.pdf)
-*   [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf)
+*   July 31st: Deadline for large plans to file Form 5500.
+*   March 15th: Deadline for small plans to file Form 5330.
 
-#### Application and Approval Forms
+#### Additional Resources
 
-*   [Application for Enrollment to Practice Before the Internal Revenue Service as an Enrolled Retirement Plan Agent (ERPA)](https://www.irs.gov/pub/irs-pdf/f230ep.pdf)
-*   [Application for Approval of Master or Prototype or Volume Submitter Defined Contribution Plans](https://www.irs.gov/pub/irs-pdf/f4461.pdf)
+*   [EFTPS](https://www.eftps.gov/): Electronically submit tax payments and returns.
+*   [IRS Website](https://www.irs.gov/): Access forms, publications, and guidance on retirement planning.
+*   [Form 5500 Corner](https://www.irs.gov/form-5500-corner): Filing tips and updates for Form 5500 returns.
 
-## Additional Resources
-
-### Form 5300 Corner
-Filing tips and updates, notices, and other helpful materials to assist you in preparing your Form 5500 (5500-EZ) return.
-
-### Form 5330 Corner
-Filing tips to assist you in preparing your Form 5330 return.
+Note: This list is not exhaustive and may not cover all relevant forms and publications. Plan sponsors and participants should consult the IRS website or seek professional advice to ensure compliance with current regulations.

@@ -1,35 +1,35 @@
 ---
 number: 95
 source_url: https://www.irs.gov/retirement-plans/roth-iras
-downloaded_at: 2025-12-30T11:18:13.479646
-processed_at: 2025-12-30T11:38:27.761349
+downloaded_at: 2025-12-30T12:54:58.274664
+processed_at: 2025-12-30T13:14:28.335832
 ---
 
 # Roth IRAs
+A Roth IRA is an Individual Retirement Arrangement that, except as explained below, is subject to the rules that apply to a traditional IRA.
 
-A Roth IRA is an IRA that, except as explained below, is subject to the rules that apply to a traditional IRA.
+## Key Features
 
-## Key Features of Roth IRAs
+*   You cannot deduct contributions to a Roth IRA.
+*   If you satisfy the requirements, qualified distributions are tax-free.
+*   You can make contributions to your Roth IRA after you reach age 70 ½.
+*   You can leave amounts in your Roth IRA as long as you live.
 
-* Contributions cannot be deducted.
-* Qualified distributions are tax-free if you satisfy the requirements.
-* You can make contributions after reaching age 70 ½.
-* Amounts in your Roth IRA remain yours as long as you live.
+## Contribution Limits
+Limits on Roth IRA contributions based on modified AGI:
 
-## Contribution Limits and Requirements
+*   2023 - Amount of Roth IRA contributions you can make for 2023: $6,000
+*   2024 - Amount of Roth IRA contributions you can make for 2024: $7,000
 
-* The same combined contribution limit applies to all of your Roth and traditional IRAs.
-* Limits on Roth IRA contributions based on modified Adjusted Gross Income (AGI).
+Related information is contained in [Publication 590-A, Contributions to Individual Retirement Arrangements (IRAs)](https://www.irs.gov/publications/p590a) and [Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs)](https://www.irs.gov/publications/p590b).
 
-## Publication Resources
-
-Refer to:
-
-* Publication 590-A, Contributions to Individual Retirement Arrangements (IRAs)
-* Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs)
+## Important Details
+-   Setting up your Roth IRA;
+-   Contributions to your Roth IRA; and
+-   Distributions (withdrawals) from your Roth IRA.
 
 ## Differences between Roth IRAs and Designated Roth Accounts
 
-See: [Individual Retirement Arrangements (IRAs)](link)
+Individual Retirement Arrangements (IRAs)
 
-Last Reviewed/Updated: August 26, 2025
+Page Last Reviewed or Updated: 26-Aug-2025

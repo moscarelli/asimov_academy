@@ -1,52 +1,62 @@
 ---
 number: 80
 source_url: https://www.irs.gov/retirement-plans/irs-nationwide-tax-forum-presentations
-downloaded_at: 2025-12-30T11:17:35.037481
-processed_at: 2025-12-30T11:35:33.543934
+downloaded_at: 2025-12-30T12:54:17.779364
+processed_at: 2025-12-30T13:11:37.128222
 ---
 
 # IRS Nationwide Tax Forum Presentations
 
 ## Retirement Plans Topics
 
-The IRS Nationwide Tax Forum presents various topics related to retirement plans, including:
+### 2019 Tax Forum Presentation – Retirement Plan Distributions
 
-*   IRAs (Individual Retirement Accounts)
-*   Types of retirement plans
-*   Required minimum distributions
-*   Published guidance
-*   Operate a retirement plan
+* PDF [link to presentation]
 
-## Seminar Slides and Speakers' Notes
+### 2018 Tax Forum Presentation – Choosing the Right Retirement Plan
 
-Below are slides and speakers' notes from IRS Nationwide Tax Forum seminars relating to retirement plans:
+* PDF [link to presentation]
 
-### 2019: Retirement Plan Distributions
-PDF
+### 2017 Tax Forum Presentation – Retirement Plan Distributions and Related Taxes
 
-### 2018: Choosing the Right Retirement Plan
-PDF
+* PDF [link to presentation]
 
-### 2017: Retirement Plan Distributions and Related Taxes
-PDF
+### 2016 Tax Forum Presentation - SEP and SIMPLE IRA Plans: Strategies for Making Correct Contributions and Deductions
 
-### 2016: SEP and SIMPLE IRA Plans Strategies for Making Correct Contributions and Deductions
-PDF
+* PDF [link to presentation]
 
-### 2015: SEP and SIMPLE IRA Plans - Avoiding Pitfalls
-PDF
+### 2015 Tax Forum Presentation - SEP and SIMPLE IRA Plans - Avoiding Pitfalls
 
-### 2014:
-    *   Choosing the Right Retirement Plan
-    *   Extra! Extra! Hear the Latest Retirement New and Hot Topics
-PDF
+* PDF [link to presentation]
 
-### 2013:
-    *   New Roth Conversion Opportunities & Other Retirement Curveballs
-    *   Grab the Money and Run? Retirement Plan Loans and Hardship Distributions
-PDF
+### 2014 Tax Forum Presentations:
+
+#### Choosing the Right Retirement Plan
+
+* PDF [link to presentation]
+
+#### Extra! Extra! Hear the Latest Retirement New and Hot Topics
+
+* PDF [link to presentation]
+
+#### New Roth Conversion Opportunities & Other Retirement Curveballs
+
+* PDF [link to presentation]
+
+#### Grab the Money and Run? Retirement Plan Loans and Hardship Distributions
+
+* PDF [link to presentation]
 
 ## Additional Resources
 
-*   IRS Nationwide Tax Forum Information
-*   Page Last Reviewed or Updated: 26-Aug-2025
+### IRS Nationwide Tax Forum Information
+
+Page Last Reviewed or Updated: 26-Aug-2025
+
+### Related Sites
+
+* U.S. Treasury
+* Treasury Inspector General for Tax Administration
+* USA.gov
+* USAspending.gov
+* Vote.gov

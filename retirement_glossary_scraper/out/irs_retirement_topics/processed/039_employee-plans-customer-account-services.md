@@ -1,40 +1,46 @@
 ---
 number: 39
 source_url: https://www.irs.gov/retirement-plans/employee-plans-customer-account-services
-downloaded_at: 2025-12-30T11:15:47.499236
-processed_at: 2025-12-30T11:27:43.849424
+downloaded_at: 2025-12-30T12:52:17.307800
+processed_at: 2025-12-30T13:03:27.863663
 ---
 
 # Employee Plans Customer Account Services
 ## Overview
+An official website of the United States government.
 
-The Employee Plans Customer Account Services (EP CAS) group can assist with account-specific questions, EP forms, and status of pending applications.
+### How to File
 
-### Contact Information
+#### When to File
 
-* Phone: 877-829-5500 (toll-free)
-* Address: P.O. Box 2508, Cincinnati, OH 45201
-* Email: [tege.outreach@irs.gov](mailto:tege.outreach@irs.gov)
+When to file your tax return depends on the type of tax return you are filing and the amount of taxes withheld from your paychecks. Generally, individuals can file their tax returns as early as January 31st after the end of each calendar year.
 
-### Resources
+*   **January 31st** - File Form W-4, Employee's Withholding Certificate, with your employer to indicate any changes to your withholding.
+*   **April 15th** - File individual and joint tax returns (Form 1040) for the previous tax year. You can also file for an extension by submitting Form 4868 electronically through the IRS Free File program or by mail.
 
-* Employee Plans Compliance Resolution System (EPCRS): 626-927-2011
-* VCP submission status questions:
-	+ Need to provide the nine-digit control number, beginning with “911” stamped on the submission acknowledgment letter, or, if an acknowledgment letter has not been received, the sponsor’s EIN and the plan number.
-* IRA Publications:
-	+ Publication 590-A: Contributions to Individual Retirement Arrangements (IRAs)
-	+ Publication 590-B: Distributions from Individual Retirement Arrangements (IRAs)
-	+ Publication 3125: An Important Message For Taxpayers With IRAs - IRS does not approve IRA investments
-* PDFs:
-	+ Taxability of distributions: Publication 575, Pension and Annuity Income
+#### Where to File
 
-### FAQs
+You must file your tax return with the Internal Revenue Service (IRS).
 
-* **How to request a copy of or a corrected letter?**: Call or write 877-829-5500 (toll-free)
-* **Check the status of your determination, opinion or advisory letter application?**: Visit [EPCRS](https://www.irs.gov/retirement-plans/epcrs) and enter the nine-digit control number
+*   **Online**: File your tax return online using e-file through the IRS website, tax software, or an authorized tax professional.
+*   **Mail**: Mail a paper tax return to the address shown in the instructions for Form 1040.
 
-### Help
+#### Update Your Information
 
-* Account-specific questions: EP CAS group
-* Basic information about EP forms (Forms 5300, 5330, 5307, 5310, 5500-EZ, 5558, 8955-SSA): EP CAS group
-* Technical or legal questions regarding retirement plans: Not answered by EP CAS
+If you have changed your name, address, marital status, dependents, or employment information, update it with the IRS by filing the necessary forms (Form W-4, Form 4852, etc.).
+
+### Tax Records and Refunds
+
+The IRS provides several tools to help manage tax records and refunds.
+
+*   **Tax Record (Transcript)**: Access your tax transcript online through the IRS website.
+*   **Apply for an Employer ID Number (EIN)**: File Form SS-4 with the IRS to obtain a Federal Tax ID Number.
+*   **Pay**: Make payments using Electronic Federal Tax Payment System (EFTPS) or other approved payment methods.
+
+### Forms and Publications
+
+The IRS offers various forms and publications to help you manage tax information.
+
+*   **Form 1040 Instructions**: Download instructions for Form 1040, individual income tax return.
+*   **Publication 590-A**: Learn about Contributions to Individual Retirement Arrangements (IRAs) on the IRS website.
+*   **Circular 230**: Review regulations governing practice before the IRS.

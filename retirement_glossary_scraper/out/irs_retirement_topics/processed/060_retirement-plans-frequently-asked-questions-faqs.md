@@ -1,58 +1,45 @@
 ---
 number: 60
 source_url: https://www.irs.gov/retirement-plans/retirement-plans-frequently-asked-questions-faqs
-downloaded_at: 2025-12-30T11:16:42.239174
-processed_at: 2025-12-30T11:31:35.982410
+downloaded_at: 2025-12-30T12:53:14.921890
+processed_at: 2025-12-30T13:07:31.809487
 ---
 
 # Retirement Plans Frequently Asked Questions (FAQs)
 
-## Filing for Individuals
+## Introduction
 
-### How to File
+Retirement plans frequently asked questions (FAQs) | Internal Revenue Service
 
-* When to file: [file when required](https://www.irs.gov/retirement-plans/required-minimum-distributions-hardship-distributions)
-* Where to file: [file with the IRS](https://www.irs.gov/individuals/filing-your-tax-return)
+### Filing for Individuals
 
-### Update Your Information
+*   **How to file**: File your tax return by the deadline, usually April 15th.
+*   **When to file**: File your tax return on time to avoid penalties and interest.
+*   **Where to file**: File your tax return electronically or by mail.
 
-[update your information](https://www.irs.gov/retirement-plans/update-your-information)
+### Tax Records
 
-## Tax Records and Refunds
+*   **Tax record (transcript)**: Request a transcript of your tax return to verify information.
+*   **Apply for an Employer ID Number (EIN)**: Apply for an EIN if you don't have one already.
 
-### Tax Record (Transcript)
+### Penalties and Refunds
 
-* Apply for a transcript: [apply now](https://www.irs.gov/individuals/tax-record-transcript)
-* Access transcripts online: [access online](https://www.irs.gov/individuals/tax-record-transcript)
+*   **Penalties**: Avoid penalties by filing on time and making estimated tax payments.
+*   **Refunds**: Check the status of your refund online or by contacting the IRS.
 
-### Where's My Refund?
+### Retirement Plans
 
-* Direct deposit: [get direct deposit information](https://www.irs.gov/refunds/wheres-my-refund)
-* Find your refund status: [check status now](https://www.irs.gov/refunds/where-is-my-refund)
+*   **Types of retirement plans**: Understand the different types of retirement plans available, such as IRAs, 401(k), and 403(b) plans.
+*   **Required Minimum Distributions (RMDs)**: Learn about RMDs and how to calculate them.
+*   **Rollovers**: Understand how to rollover a retirement plan to another employer or individual.
 
-## Credits & Deductions
+### Forms and Publications
 
-### Earned Income Credit (EITC)
+*   **Form 1040**: Download Form 1040, the standard form for personal income tax returns.
+*   **Form 1040 Instructions**: Read the instructions for Form 1040 carefully before filing your return.
+*   **Form W-9**: Complete Form W-9 to request a taxpayer identification number and certification.
 
-* Get EITC information: [get eitc information](https://www.irs.gov/individuals/earned-income-credit)
-* Apply for the EITC: [apply now](https://www.irs.gov/individuals/applying-for-the-eitc)
+### Help and Resources
 
-## Retirement Plans
-
-### Types of Retirement Plans
-
-* IRAs: [get ira information](https://www.irs.gov/retirement-plans/types-of-retirement-plans)
-* SEPs: [get sep information](https://www.irs.gov/retirement-plans/seps)
-* 403(b) plans: [get 403(b) plan information](https://www.irs.gov/retirement-plans/403-b-tax-sheltered-annuity-plans)
-
-### Required Minimum Distributions
-
-* Get required minimum distribution information: [get required minimum distribution information](https://www.irs.gov/retirement-plans/required-minimum-distributions-hardship-distributions)
-* Apply for hardship distributions: [apply now](https://www.irs.gov/retirement-plans/hardship-distributions)
-
-## Forms & Instructions
-
-### Form 1040
-
-* Get form 1040 information: [get form 1040 instructions](https://www.irs.gov/individuals/form-1040-instructions)
-* Apply for an Employer ID Number (EIN): [apply now](https://www.irs.gov/businesses/small-businesses-self-employed/applying-for-an-employer-id-number-ein)
+*   **Help**: Contact the IRS if you have questions or need help with your tax return.
+*   **News**: Stay up-to-date on news and information about retirement plans and taxes.

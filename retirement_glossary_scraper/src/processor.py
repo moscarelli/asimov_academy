@@ -99,8 +99,13 @@ Rules:
             html_file: Path to the HTML file
         """
         print(f"\nLOG: Processing: {html_file.name}")
-        
-        # Load raw HTML
+                # Check if already processed
+        md_file = self.config.processed_dir / f"{html_file.stem}.md"
+        if md_file.exists():
+            print(f"LOG: ⊘ Skipped (already processed): {md_file.name}")
+            self.processed_count += 1  # Count as processed
+            return
+                # Load raw HTML
         print(f"LOG:   Loading HTML content...")
         html_content = html_file.read_text(encoding='utf-8')
         print(f"LOG:   ✓ Loaded {len(html_content)} characters")

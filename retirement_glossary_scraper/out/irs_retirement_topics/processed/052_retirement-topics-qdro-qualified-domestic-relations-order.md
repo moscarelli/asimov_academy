@@ -1,29 +1,22 @@
 ---
 number: 52
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro-qualified-domestic-relations-order
-downloaded_at: 2025-12-30T11:16:21.136192
-processed_at: 2025-12-30T11:30:05.081720
+downloaded_at: 2025-12-30T12:52:51.154222
+processed_at: 2025-12-30T13:05:59.515102
 ---
 
-# QDRO: Qualified Domestic Relations Order
-
-A QDRO (Qualified Domestic Relations Order) is a judgment, decree, or order that requires a retirement plan to pay child support, alimony, or marital property rights to a spouse, former spouse, child, or other dependent of a participant.
-
-## Key Elements of a QDRO
-The QDRO must contain the following specific information:
-
-* The names and last known mailing addresses of the participant and each alternate payee
-* The amount or percentage of the participant's benefits to be paid to each alternate payee
+# Retirement topics — QDRO: Qualified domestic relations order
+A QDRO is a judgment, decree or order for a retirement plan to pay child support, alimony or marital property rights to a spouse, former spouse, child or other dependent of a participant. The QDRO must contain certain specific information, such as:
+*   the participant and each alternate payee’s name and last known mailing address,
+*   the amount or percentage of the participant's benefits to be paid to each alternate payee.
 
 A QDRO may not award an amount or form of benefit that is not available under the plan.
+Spouse or former spouse who receives QDRO benefits from a retirement plan reports the payments received as if he or she were a plan participant. The spouse or former spouse is allocated a share of the participant's cost (investment in the contract) equal to the cost times a fraction. The numerator of the fraction is the present value of the benefits payable to the spouse or former spouse. The denominator is the present value of all benefits payable to the participant.
 
-## Taxation of QDRO Distributions
-A QDRO distribution that is paid to a child or other dependent is taxed to the plan participant. However, if a person receiving QDRO payments is either the employee's spouse or former spouse (not as a nonspousal beneficiary), they can roll over tax-free all or part of the distribution.
+A QDRO distribution that is paid to a child or other dependent is taxed to the plan participant.
+An individual may be able to roll over tax-free all or part of a distribution from a qualified retirement plan that he or she received under a QDRO. If a person receiving QDRO payments is either the employee's spouse or former spouse (not as a nonspousal beneficiary), then he or she can roll it over, just as if he or she were the employee receiving a plan distribution and choosing to roll it over.
 
-## Rolling Over QDRO Payments
-Individuals may be able to roll over tax-free all or part of a distribution from a qualified retirement plan that they received under a QDRO. This is similar to rolling over a plan distribution and choosing to roll it over.
+## Additional resources
 
-## Additional Resources
-
-* Publication 504: Divorced or Separated Individuals
-* Publication 575: Pension and Annuity Income
+*   Publication 504, Divorced or Separated Individuals
+*   Publication 575, Pension and Annuity Income

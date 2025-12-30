@@ -1,41 +1,34 @@
 ---
 number: 67
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-participant-directed-accounts
-downloaded_at: 2025-12-30T11:16:59.987303
-processed_at: 2025-12-30T11:33:09.675765
+downloaded_at: 2025-12-30T12:53:36.576895
+processed_at: 2025-12-30T13:09:05.550507
 ---
 
-# Participant-Directed Accounts in Retirement Plans
+# Retirement Topics: Participant-Directed Accounts
 
-Participant-directed accounts, also known as self-directed accounts, are plan accounts where participants exercise independent control over the investment of their individual accounts.
+## What are participant-directed accounts?
 
-## Plan Rules and Requirements
+Participant-directed accounts, also known as self-directed accounts, allow plan participants to exercise independent control over the investment of their individual accounts.
 
-The U.S. Department of Labor has established rules about plans that permit participants to direct their own investments. To relieve the plan trustee of fiduciary duties for investments, such plans must inform participants of that fact and offer at least three diversified investment options with different risk/return factors.
+## Types of participant-directed accounts
 
-**Key Features:**
+There are several types of participant-directed accounts:
 
-* Participants are responsible for the consequences of their investment decisions.
-* The plan must provide sufficient information about investment options for informed decision-making.
-* Participants' shareholder voting rights and confidentiality measures must be disclosed.
-* Plan fiduciaries or designated individuals will provide additional information on request.
+*   Defined contribution plans that give participants choices
+*   IRAs and other individual retirement accounts
 
-## Types of Participant-Directed Accounts
+## Rules for participant-directed accounts
 
-Participant-directed accounts are commonly referred to as self-directed accounts. These plans give participants the freedom to choose their own investments, allowing them to exercise independent control over their account balances.
+The U.S. Department of Labor has established rules about plans that permit participants to direct their own investments. These rules require plan officials to inform participants of the fact that they are relieving themselves of fiduciary duties.
 
-## Investment Options and Choices
+**Key Requirements**
 
-For participant-directed accounts, plan officials must offer at least three diversified investment options with different risk/return factors that participants can choose from. Participants are responsible for making informed decisions based on this information.
+*   Participants must be given sufficient information about investment options
+*   Participants are responsible for the consequences of their investment decisions
 
-## Plan Administration and Compliance
+## Examples of participant-directed accounts
 
-Plan administrators must comply with the rules and regulations governing participant-directed accounts. Failure to do so may result in fiduciary liability.
-
-## Resources and Guidance
-
-For more information on participant-directed accounts, refer to the following resources:
-
-* [Savings fitness: A guide to your money and your financial future](link)
-* [Taking the mystery out of retirement planning](link)
-* [Retirement plans FAQs regarding plan investments](link)
+*   **Roth IRAs**: A type of individual retirement account that allows participants to contribute after-tax dollars
+*   **Traditional IRAs**: A type of individual retirement account that allows participants to contribute pre-tax dollars
+*   **SEP-IRAs**: A type of individual retirement account that allows self-employed individuals to make tax-deductible contributions

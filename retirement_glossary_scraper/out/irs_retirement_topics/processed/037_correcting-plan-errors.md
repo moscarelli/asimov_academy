@@ -1,53 +1,64 @@
 ---
 number: 37
 source_url: https://www.irs.gov/retirement-plans/correcting-plan-errors
-downloaded_at: 2025-12-30T11:15:41.872900
-processed_at: 2025-12-30T11:27:13.990104
+downloaded_at: 2025-12-30T12:52:12.229872
+processed_at: 2025-12-30T13:02:55.783570
 ---
 
 # Correcting Plan Errors
 
-The Employee Plans Compliance Resolution System (EPCRS) offers three programs for correcting plan errors:
+## Introduction
 
-### Self-Correction Program (SCP)
+The Employee Plans Compliance Resolution System (EPCRS) offers three programs for correcting plan errors: Self-Correction Program (SCP), Voluntary Correction Program (VCP), and Audit Closing Agreement Program (Audit CAP).
 
-*   Allows employers to make corrections to their plans and submit the corrected information.
+### How to Find Common Plan Errors
 
-### Voluntary Correction Program (VCP)
+You can find common plan errors in various resources, including:
 
-*   Requires employers to file Form 14568 with the IRS, along with model schedules and supporting documentation.
+*   Revenue procedures, such as Rev. Proc. 2021-30 and Rev. Proc. 2019-19
+*   IRS publications, like Publication 4224, Retirement Plan Correction Programs
+*   FAQs regarding governmental plans and EPCRS
 
-### Audit Closing Agreement Program (Audit CAP)
+## Self-Correction Program (SCP)
 
-*   Offers a faster correction process for employers who have already filed for an amendment.
+The SCP allows you to correct common plan errors without prior approval.
 
-### Find Plan Errors
+### Benefits of SCP
 
-EPCRS helps identify common plan errors that can be fixed right away. Employers can use this information to avoid costly corrections.
+*   Faster processing time
+*   No need for prior approval
 
-### Fix Plan Errors
+### Requirements for SCP
 
-Employers can follow these steps:
+*   The error must be a "minor mistake"
+*   You must agree to the corrections made by EPCRS
 
-1.  Identify the error and its impact on the plan.
-2.  Review IRS guidance and revenue procedures for EPCRS.
-3.  File a VCP application with the correct documentation.
-4.  Follow up with the IRS to ensure the correction is complete.
+## Voluntary Correction Program (VCP)
 
-### Fix-It Guides
+The VCP allows you to correct plan errors with prior approval.
 
-Submission kits are available for employers who need help with the correction process.
+### Benefits of VCP
 
-### Revenue Procedures
+*   More control over the correction process
+*   Can avoid penalties and interest
 
-*   Revenue Procedure 2021-30 (effective July 16, 2021)
-*   Revenue Procedure 2019-19 (effective April 19, 2019)
-*   Revenue Procedure 2008-50 (superseded as of April 1, 2013)
+### Requirements for VCP
 
-### Related Resources
+*   The error must be a "major mistake"
+*   You must agree to the corrections made by EPCRS
+*   You must submit an application and supporting documentation
 
-*   Employee plans voluntary closing agreements
-*   Tax consequences of plan disqualification
-*   Publication 4224, Retirement Plan Correction Programs
-*   Frequently asked questions (FAQs) regarding governmental plans and EPCRS
-*   Other government correction programs for retirement plans
+## Audit Closing Agreement Program (Audit CAP)
+
+The Audit CAP is used when there is a dispute between you and the IRS.
+
+### Benefits of Audit CAP
+
+*   Can avoid penalties and interest
+*   Allows for more control over the correction process
+
+### Requirements for Audit CAP
+
+*   The error must be a "major mistake"
+*   You must agree to the corrections made by EPCRS
+*   You must submit an application and supporting documentation

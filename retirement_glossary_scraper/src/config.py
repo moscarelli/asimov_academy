@@ -6,13 +6,17 @@ from dataclasses import dataclass
 from typing import Optional
 
 
+# Get the project root directory (retirement_glossary_scraper/)
+PROJECT_ROOT = Path(__file__).parent.parent.resolve()
+
+
 @dataclass
 class ScraperConfig:
     """Configuration settings for the scraper."""
     
     # URLs and paths
     main_url: str = "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics"
-    out_dir: Path = Path("./out/irs_retirement_topics")
+    out_dir: Path = PROJECT_ROOT / "out" / "irs_retirement_topics"
     
     # Control flags
     skip_existing_raw: bool = True
@@ -27,7 +31,7 @@ class ScraperConfig:
     ollama_timeout: int = 60
     
     # ChromaDB settings
-    chroma_path: str = "tmp/chroma_retirement_glossary"
+    chroma_path: str = str(PROJECT_ROOT / "tmp" / "chroma_retirement_glossary")
     chroma_collection: str = "irs_retirement_glossary"
     
     # Rate limiting

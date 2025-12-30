@@ -1,102 +1,56 @@
 ---
 number: 58
 source_url: https://www.irs.gov/retirement-plans/employee-plans-compliance-unit-epcu
-downloaded_at: 2025-12-30T11:16:36.678816
-processed_at: 2025-12-30T11:31:07.206858
+downloaded_at: 2025-12-30T12:53:08.451548
+processed_at: 2025-12-30T13:07:06.631664
 ---
 
-# Employee Plans Compliance Unit (EPCU) | Internal Revenue Service
+# Employee Plans Compliance Unit (EPCU)
+## Overview
 
-An official website of the United States government.
+The Employee Plans Compliance Unit (EPCU) is responsible for compliance checks and data analysis to identify areas of potential non-compliance.
 
-## How You Know
+### Filing Requirements
 
-Official websites use .gov
-A
-.gov
-website belongs to an official government organization in the United States.
-Secure .gov websites use HTTPS
-A
-lock
-(
-)
-            or
-https://
-means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+*   **When to File**: Generally, individuals must file Form 5500 or Form 9006 series by the last day before the plan's anniversary date.
+*   **Where to File**: The form should be filed electronically with the IRS using e-file.
+*   **Update Information**: If there are changes in a plan's participant information, you need to update your information.
 
-### Taxpayer Information
+### Tax Records
 
-Access your tax information with an IRS account.
-Refunds
-Payments
-Tax records
-Create account
+The EPCU conducts compliance checks on tax records. To obtain your tax transcript, follow these steps:
 
-### Filing for Individuals
+1\. Go to irs.gov and select "Get Your Tax Record" from the menu.
 
-How to file
-When to file
-Where to file
-Update your information
-POPULAR
-Tax record (transcript)
-Apply for an Employer ID Number (EIN)
-Amend return
-Identity Protection PIN (IP PIN)
-Pay
-Overview
-PAY BY
-Bank Account (Direct Pay)
-Payment Plan (Installment Agreement)
-Electronic Federal Tax Payment System (EFTPS)
+2\. Follow the instructions provided for obtaining an electronic copy of your tax record or mail a request to the address listed under "Mailing Addresses."
 
-### Credits & Deductions
+3\. Use Form 4506-T to obtain a transcript by phone or email.
 
-For you and your family
-Businesses & Self-Employed
-Standard mileage and other information
-POPULAR
-Earned Income Credit (EITC)
-Child Tax Credit
-Clean Energy and Vehicle Credits
-Standard Deduction
-Retirement Plans
+### Forms
 
-### Forms & Instructions
+The following are some commonly used forms related to Employee Plans Compliance Unit (EPCU):
 
-Popular forms and instructions
-Form 1040
-Individual Income Tax Return
-Form 1040 Instructions
-Instructions for Form 1040
-Form W-9
-Request for Taxpayer Identification Number (TIN) and Certification
-Form 4506-T
-Request for Transcript of Tax Return
-Form W-4
-Employee's Withholding Certificate
+*   [Form 5500](https://www.irs.gov/pub/irs-pdf/f5500.pdf)
+    *   Used for annual information returns, Form 5500 is required for most defined benefit plans.
+*   [Form 9006 series](https://www.irs.gov/pub/irs-pdf/f9006.pdf)
+    *   Used for annual information returns of retirement plans and certain employer-sponsored welfare arrangements.
+*   [Form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
+    *   Used to report the taxpayer identification number (TIN) for tax withholding purposes
+*   [Form 2848](https://www.irs.gov/pub/irs-pdf/f2848.pdf)
+    *   Used to authorize another person to represent you before the IRS
+*   [Form 941](https://www.irs.gov/pub/irs-pdf/f941.pdf)
+    *   Used for annual federal unemployment tax act (FUTA) withholding and deposit
 
-### Your Online Account
+### Taxpayer Rights
 
-Tax Withholding Estimator
-Estimated Taxes
+Taxpayers have the right to:
 
-### Penalties
+1\. **Accuracy of Personal Data**
 
-Overview
-Where’s My Refund?
-Direct deposit
-Where’s My Amended Return?
+2\. **Notification and Opportunity to Share Information**
 
-## The Employee Plans Compliance Unit (EPCU)
+3\. **Appeal if Determination is Made**
 
-The EPCU works compliance checks and performs data analysis to focus on areas of potential non-compliance.
+4\. **Examination and Judicial Review**
 
-*   Taxpayers are initially contacted by correspondence, but EPCU may follow up with additional letters and/or telephone calls.
-*   Most issues are resolved without an on-site examination of the books and records of the plan, saving time and money for both the taxpayer and the IRS.
-*   To date, the EPCU has completed 87 projects/strategies and conducted over 53,000 compliance checks.
-
-## Additional Resources
-
-EPCU – General FAQs
-Page Last Reviewed or Updated: 16-Nov-2025
+5\. **Refund If Overpayment Has Been Made

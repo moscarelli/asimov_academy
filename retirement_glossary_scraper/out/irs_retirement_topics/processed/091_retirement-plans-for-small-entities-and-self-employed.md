@@ -1,37 +1,46 @@
 ---
 number: 91
 source_url: https://www.irs.gov/retirement-plans/retirement-plans-for-small-entities-and-self-employed
-downloaded_at: 2025-12-30T11:18:03.382186
-processed_at: 2025-12-30T11:37:30.714966
+downloaded_at: 2025-12-30T12:54:47.538930
+processed_at: 2025-12-30T13:13:40.997815
 ---
 
 # Retirement Plans for Small Entities and Self-Employed
 
-## Introduction
-
-The IRS provides resources and information to help small entities and self-employed individuals plan for retirement.
-
 ## Choosing a Plan
 
-- **Selecting a Retirement Solution**: Choosing the right retirement solution depends on your business size, industry, and financial situation.
-- **Plan Benefits**: Setting up a retirement plan can provide benefits such as increased employee morale, improved retention rates, and enhanced reputation.
+Maintain a plan to ensure compliance with IRS regulations.
 
-## Operating Your Plan
+### Selecting a Retirement Solution
 
-- **Common Plan Requirements**: Ensure compliance with IRS regulations, including filing deadlines and reporting requirements.
-- **Reminders for Plan Sponsors**: Stay informed about important dates and procedures to avoid errors.
-- **Filing and Reporting Requirements**: Complete required forms and reports on a timely basis.
+Choose a retirement solution that meets your small business's needs. Consider factors such as cost, flexibility, and employee participation.
 
-## Tax-exempt and Government Entities
+## Common Plan Requirements
 
-### Resources for Small Entities and Self-Employed
+*   File annual reports with the IRS
+*   Provide a written plan document to employees
+*   Establish a plan fiduciary
+*   Comply with ERISA requirements
 
-#### Retirement Plan Resources
+### Reminders for Plan Sponsors
 
-- **Retirement Plan Resources**: Find information on planning, operating, and managing retirement plans.
-- **Small Employer Retirement Plans During Economic Downturns**: Learn about plan requirements and resources during economic challenges.
+*   Review and update your plan regularly
+*   Ensure timely filing of Form 5500
+*   Maintain accurate records of plan transactions
+
+## Filing and Reporting Requirements
+
+*   File annual Form 5500-EZ with the IRS
+*   Provide a copy of the plan document to employees
+*   Establish an ERISA representative
+
+## Retirement Plans Resources for Small Employers and Self-Employed
+
+*   IRS Publication 538: Tax Compliance by Small Businesses
+*   IRS Publication 590-A: Individual Retirement Accounts (IRAs)
+*   ERISA Resources: [www.dol.gov/agencies/erisa](http://www.dol.gov/agencies/erisa)
 
 ## Additional Information
 
-- **Fix-it Guides**: Correct common errors in your retirement plan.
-- **Correction Programs**: Take advantage of programs to address plan deficiencies.
+*   Contact the IRS Small Business/Self-Employed division for guidance and support
+*   Consult with a qualified professional to ensure compliance with IRS regulations

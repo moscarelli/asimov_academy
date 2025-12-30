@@ -1,43 +1,39 @@
 ---
 number: 54
 source_url: https://www.irs.gov/retirement-plans/plan-sponsor/what-is-the-employee-plans-office-and-what-does-it-do
-downloaded_at: 2025-12-30T11:16:26.129841
-processed_at: 2025-12-30T11:30:25.182567
+downloaded_at: 2025-12-30T12:52:56.869254
+processed_at: 2025-12-30T13:06:20.430669
 ---
 
 # What is the Employee Plans Office and what does it do?
 
-The Employee Plans Office is responsible for ensuring that plan sponsors, individuals, and benefits practitioners understand and comply with the tax law governing retirement plans and IRAS. It's part of the Tax-Exempt and Government Entities Division of the IRS.
+## Overview of the Employee Plans Office
 
-## Departments of the Employee Plans office
+The Employee Plans Office is responsible for ensuring that plan sponsors, individuals, and benefits practitioners understand and comply with the tax law governing retirement plans and IRAs.
 
-### Determinations
+## Departments of the Employee Plans Office
 
-* Reviews retirement plan documents and gives assurance to plan sponsors that their documents are written according to the rules
-* Provides private letter rulings on certain limited topics to individual requestors
+*   Determinations: Reviews retirement plan documents to ensure they are written according to the rules.
+*   Technical: Provides private letter rulings on certain limited topics to individual requestors.
+*   Voluntary Compliance: Administers IRS programs that allow plan sponsors to correct self-identified problems in plan documents or operations.
+*   Examinations: Reviews taxpayer books and records to ensure plans provide the promised benefits and comply with all relevant laws.
+*   Customer Account Services: Answers account and basic retirement plan-related questions.
 
-### Technical
-
-* Provides private letter rulings on certain limited topics to individual requestors
-
-### Voluntary Compliance
-
-* Administers IRS programs that allow plan sponsors to correct self-identified problems in plan documents or operations
-
-### Examinations
-
-* Reviews taxpayer books and records to ensure that plans provide the promised benefits and comply with all relevant laws
-* Answers account and basic retirement plan-related questions
-
-## Administrative responsibility for retirement plans
+## History of the Employee Plans Office
 
 The Employee Plans Office was created in 1974, following enactment of the Employee Retirement Income Security Act (ERISA), to help protect the retirement benefits of employees. Under ERISA, jurisdiction over employee benefit plans is divided among the Internal Revenue Service, the Department of Labor, and the Pension Benefit Guaranty Corporation.
 
-## Related sites
+## Coordination among Agencies
 
-* [Internal Revenue Service Advisory Council (IRSAC)](link)
-* [Retirement Planning (MyMoney.gov)](link)
-* [Private Pension Plan Bulletin](link)
-* [Pension Insurance Data Book](link)
+Although jurisdiction is divided among the IRS, DOL, and PBGC, ERISA requires them to coordinate their activities.
 
-## Page last reviewed or updated: 26-Aug-2025
+## Related Resources
+
+*   Internal Revenue Service Advisory Council (IRSAC)
+*   Retirement Planning (MyMoney.gov)
+*   Tools for retirement planning
+*   Statistical information on retirement plans
+*   Private Pension Plan Bulletin
+*   DOL statistics on plans, participants, assets, income, and expenses based on Form 5500 filings
+*   PBGC Annual Report
+*   Pension Insurance Data Book

@@ -1,53 +1,45 @@
 ---
 number: 5
 source_url: https://www.irs.gov/retirement-plans/published-guidance
-downloaded_at: 2025-12-30T11:14:21.077311
-processed_at: 2025-12-30T11:21:10.643859
+downloaded_at: 2025-12-30T12:50:46.551567
+processed_at: 2025-12-30T12:56:45.540554
 ---
 
 # Published Guidance
+Official guidance from the IRS.
 
-## Overview
+## Types of Retirement Plans
+Learn about the different types of retirement plans available.
 
-The Internal Revenue Service (IRS) provides published guidance on various topics related to tax laws, regulations, and procedures.
+### IRAs
+Individual Retirement Accounts (IRAs) allow you to save for retirement on a tax-deferred basis.
 
-### Filing For Individuals
+### Required Minimum Distributions
+Find out when and how much you must take out of your traditional IRA.
 
-*   **How to file**: Check the official IRS website for specific instructions.
-*   **When to file**: File your tax return by the deadline to avoid penalties and interest.
-*   **Where to file**: You can file your tax return electronically or by mail using Form 1040.
+### Operate a Retirement Plan
+Get information on how to operate a retirement plan, including forms and publications.
 
-### Tax Record (Transcript)
+## Published Guidance
+The IRS publishes guidance on various topics related to retirement plans.
 
-*   **Apply for an Employer ID Number (EIN)**: If you need an EIN for business purposes, visit the IRS website for more information.
-*   **Amend return**: If you made changes to your original tax return, you can file Form 1040X to make corrections.
+### Actuarial Tables
+Use these tables to value annuities, life estates, remainders, and reversions.
 
-### Penalties
+### Interest Rates Tables
+Find out the monthly weighted-average interest rates that apply to your retirement plan.
 
-*   **Where's My Refund?**: Track the status of your refund using the IRS website or mobile app.
-*   **Credits & Deductions**: Learn about the various credits and deductions available to individuals and businesses.
+### Actuarial Private Letter Rulings
+Get tips and common errors to reduce processing delays and improve your experience with the actuarial private letter ruling process.
 
-## Forms and Publications
+### Priority Guidance Plan
+Learn about the Priority guidance plan, including links to current and prior versions, as well as news or notices about the Plan.
 
-The IRS offers a range of forms and publications for tax purposes, including:
+### Advance Releases
+Read text of revenue rulings, revenue procedures, and other technical items in advance of their Internal Revenue Bulletin publication date.
 
-*   Form 1040: Individual Income Tax Return
-*   Form W-9: Request for Taxpayer Identification Number (TIN) and Certification
-*   Form 4506-T: Request for Transcript of Tax Return
-*   Circular 230: Regulations Governing Practice before the IRS
+## Tax Code, Regulations, and Official Guidance
+Find authoritative sources for tax rules and procedures online for free.
 
-## Retirement Plans
-
-The IRS provides guidance on retirement plans, including:
-
-*   **Types of retirement plans**: Learn about different types of retirement plans, such as IRAs and 401(k) plans.
-*   **Required minimum distributions (RMDs)**: Understand the rules for RMDs, which apply to traditional IRA accounts.
-*   **Interest rates tables**: Find out the monthly weighted-average interest rates that apply to your retirement plan.
-
-## Additional Resources
-
-For more information on tax laws, regulations, and procedures, visit:
-
-*   The IRS website (irs.gov)
-*   The U.S. Treasury website (treasury.gov)
-*   The Treasury Inspector General for Tax Administration website (tig.treasury.gov)
+### Pension Plan Mortality Tables
+Get the mortality tables and mortality improvement rates that apply to your pension plan.

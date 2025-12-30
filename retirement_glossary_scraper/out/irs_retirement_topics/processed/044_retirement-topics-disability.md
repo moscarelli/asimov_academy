@@ -1,32 +1,36 @@
 ---
 number: 44
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-disability
-downloaded_at: 2025-12-30T11:16:00.281388
-processed_at: 2025-12-30T11:28:40.122464
+downloaded_at: 2025-12-30T12:52:30.250914
+processed_at: 2025-12-30T13:04:22.363557
 ---
 
 # Retirement Topics - Disability
 
-## Filing for Individuals
+## Overview
 
-You may receive a distribution from a retirement plan because you became totally and permanently disabled.
+A plan participant may receive a distribution from a retirement plan because they became totally and permanently disabled. The plan document will specify the terms and conditions that a person must meet to receive disability payments.
 
-*   The plan document will specify the terms and conditions that you must meet to receive disability payments.
-*   It will also give instructions on how to apply for them.
+## How to File
 
-### Publication 575, Pension and Annuity Income
-### Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs)
-### Publication 907, Tax Highlights for Persons with Disabilities
+To file for disability, follow these steps:
 
-## Disability Information
+*   When to file: File as soon as possible after becoming disabled.
+*   Where to file: File with the IRS or through a tax professional.
+*   Update your information: If you experience any changes in your income or circumstances, update your information.
 
-### For Individuals
-*   Disability information for individuals.
-*   Information on disability payments and tax implications.
+## Tax Records
 
-### For Businesses and Partners Providing Services
-*   Disability information for businesses and partners providing services.
+You can access your tax records online or by contacting the IRS. You can also request a transcript of your tax return.
 
-## Reporting of Disability Annuity Payments
+## Payments and Refunds
 
-*   2023 Form 1099-R: Reporting of disability annuity payments to first responders and other disabled taxpayers.
+If you're unable to work due to disability, you may be eligible for certain payments and refunds. Contact the IRS or a tax professional to learn more.
+
+## Forms and Publications
+
+For more information on disability and retirement topics, refer to the following forms and publications:
+
+*   Publication 575: Pension and Annuity Income
+*   Publication 590-B: Distributions from Individual Retirement Arrangements (IRAs)
+*   Publication 907: Tax Highlights for Persons with Disabilities

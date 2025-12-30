@@ -1,49 +1,41 @@
 ---
 number: 103
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment
-downloaded_at: 2025-12-30T11:18:32.657726
-processed_at: 2025-12-30T11:40:00.615383
+downloaded_at: 2025-12-30T12:55:19.349040
+processed_at: 2025-12-30T13:16:00.023083
 ---
 
-Tax Information for Terminated Employees
-=====================================
+# Termination of Employment in Retirement Plans
 
-If you're leaving your job, you have four options for your account balance:
+## Overview
 
-### Option 1: Leave your money in the plan
+If you're leaving your job and have a retirement plan (other than a defined benefit pension plan), you generally have four options for your account balance:
 
-*   Consider rolling over the balance to an IRA if it's less than $5,000.
-*   The plan may require you to move the balance.
+1. **Leave your money in the plan**: Consider keeping the balance if:
+	* You like the plan's investment options
+	* The plan has low fees, or
+	* You want to move the balance to a new employer's plan later.
+2. **Rollover to a new employer's plan**: Check if the new plan allows you to move the balance from your old plan into the new plan. Consider factors like:
+	* Better investment options
+	* Lower fees compared to the old plan
+	* Consolidating retirement savings into one plan
+3. **Withdraw the balance**: Request a lump-sum distribution, but be aware of:
+	* Income tax on previously untaxed amount received
+	* 10% early distribution tax (25% for SIMPLE IRA plans within two years)
+4. **Rollover to an IRA**: Roll over the old plan's balance to a traditional or Roth IRA, which offers low-cost investment options.
 
-### Option 2: Rollover to a new employer's plan
+## How to Roll Over
 
-*   Check if the new plan allows you to move the balance from your old plan.
-*   Consider factors such as investment options and fees.
+There are two ways to move your old plan's balance:
 
-### Option 3: Withdraw the balance
+1. Ask the old plan's trustee to directly transfer the balance to your new plan or IRA.
+2. Request a lump-sum distribution and deposit the amount into the new plan or IRA within 60 days.
 
-*   You'll likely have to pay income tax on any previously untaxed amount that you receive.
-*   There may be an additional 10% early distribution tax if you're not at least age 55 (59½, if from a SEP or SIMPLE IRA plan).
+Keep in mind that the old plan usually withholds 20% for federal income taxes from the distributed amount, so you may need to include this amount in your gross income and potentially pay an additional early distribution tax.
 
-### Option 4: Rollover to an IRA
+## Related Resources
 
-*   You can roll over the old plan's balance to a traditional or Roth IRA.
-*   Most IRAs offer low-cost investment options.
-
-**How to Roll Over a Balance**
-
-There are two ways to move your old plan's balance to a new plan or to an IRA:
-
-1.  Ask the old plan's trustee to directly transfer the balance to your new plan or IRA.
-2.  Request a lump-sum distribution of the balance from the old plan and then deposit it into the new plan or IRA within 60 days.
-
-**Important Considerations**
-
-*   The old plan may withhold 20% for federal income taxes from the distributed amount.
-*   You'll need to include this withheld amount in your gross income in the year the distribution was made, and you may owe an additional early distribution tax on the withheld amount.
-
-**Related Resources**
-
-*   Rollovers of retirement Plan and IRA distributions
-*   Rollover chart
-*   Publication 590-B, Distributions Individual Retirement Arrangements (IRAs)
+* Rollovers of retirement Plan and IRA distributions
+* Rollover chart
+* Publication 590-B, Distributions Individual Retirement Arrangements (IRAs)
+* Q&As for dislocated workers (U.S. Department of Labor)

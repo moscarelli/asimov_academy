@@ -1,11 +1,15 @@
 """
 Query the IRS Retirement Topics ChromaDB - Semantic Search Only
 """
+from pathlib import Path
 from agno.knowledge.embedder.ollama import OllamaEmbedder
 from agno.vectordb.chroma import ChromaDb
 
+# Get the project root directory
+PROJECT_ROOT = Path(__file__).parent.resolve()
+
 # Configuration
-CHROMA_PATH = "tmp/chroma_retirement_glossary"
+CHROMA_PATH = str(PROJECT_ROOT / "tmp" / "chroma_retirement_glossary")
 COLLECTION_NAME = "irs_retirement_glossary"
 
 print("="*80)

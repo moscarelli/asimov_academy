@@ -1,33 +1,46 @@
 ---
 number: 13
 source_url: https://www.irs.gov/retirement-plans/form-5500-corner
-downloaded_at: 2025-12-30T11:14:41.356867
-processed_at: 2025-12-30T11:22:44.775018
+downloaded_at: 2025-12-30T12:51:10.953454
+processed_at: 2025-12-30T12:58:17.134524
 ---
 
-# Form 5500 Corner | Internal Revenue Service
+# Form 5500 Corner
 
-## Filing Requirements
+## What is a Form 5500?
 
-The employer maintaining the plan or the plan administrator of a pension or welfare benefit plan covered by the Employee Retirement Income Security Act (ERISA) must file Form 5500 to report information on the qualification of the plan, its financial condition, investments and the operations of the plan.
+A Form 5500 is an annual report filed by plan sponsors and plan administrators of employee benefit plans to satisfy annual reporting requirements under ERISA (Employee Retirement Income Security Act) and the Internal Revenue Code.
 
-### Who Files
+### Who Files a Form 5500?
 
-*   The employer maintaining the plan or the plan administrator of a pension or welfare benefit plan covered by ERISA.
-*   A one-participant plan or a foreign plan.
+* The employer maintaining the plan or the plan administrator of a pension or welfare benefit plan covered by ERISA.
+* Must file electronically through EFAST2.
 
-### Where to File
+## Purpose of a Form 5500
 
-*   Must file electronically through EFAST2.
+To report information on the qualification, financial condition, investments, and operations of the plan.
 
-### Forms and Instructions
+### Due Date
 
-*   Form 5500: Annual Return/Report of Employee Benefit Plan
-*   Form 5500-SF: Short Form Annual Return/Report of Small Employee Benefit Plan
-*   Form 5500-EZ: Annual Return of A One-Participant (Owners/Partners and Their Spouses) Retirement Plan or A Foreign Plan
+The last day of the seventh month after the plan year ends (July 31 for a calendar year plan).
 
-### Filing Tips
+### Electronic Filing
 
-*   Due date: the last day of the seventh month after the plan year ends (July 31 for a calendar year plan).
-*   Extensions: request on Form 5558.
-*   Additional tips: see Frequently asked questions about EFAST2 electronic filing system (Form 5500s filing) and Troubleshooter's guide to filing the ERISA annual report.
+Due to increased penalties for failure to file, it is recommended to file electronically through EFAST2.
+
+## Forms and Instructions
+
+* Form 5500: Annual Return/Report of Employee Benefit Plan
+* Form 5500-SF: Short Form Annual Return/Report of Small Employee Benefit Plan
+* Form 5500-EZ: Annual Return of A One-Participant (Owners/Partners and Their Spouses) Retirement Plan or A Foreign Plan
+
+### Schedules
+
+* Completed and signed Schedules SB and MB, if applicable.
+
+## Resources
+
+* EFAST2 web-based filing system
+* EFAST2-approved vendors
+* Form 5558 instructions
+* Form 2848 instructions

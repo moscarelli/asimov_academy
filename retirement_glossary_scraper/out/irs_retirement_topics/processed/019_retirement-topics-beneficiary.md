@@ -1,47 +1,57 @@
 ---
 number: 19
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary
-downloaded_at: 2025-12-30T11:14:56.709382
-processed_at: 2025-12-30T11:23:52.009416
+downloaded_at: 2025-12-30T12:51:26.479468
+processed_at: 2025-12-30T12:59:31.168365
 ---
 
-# Retirement Topics - Beneficiary
-
-## Introduction
+# Retirement topics - Beneficiary
 
 Beneficiaries of retirement plan and IRA accounts after the death of the account owner are subject to required minimum distribution (RMD) rules. A beneficiary is generally any person or entity the account owner chooses to receive the benefits of a retirement account or an IRA after they die.
 
-## Types of Beneficiaries
+## How beneficiary RMDs are determined
 
-- **Spouse**: Has more options than non-spouse beneficiaries.
-- **Minor Child**: Requires special handling due to their age.
-- **Disabled or Chronically Ill Individual**: May have different RMD requirements.
-- **Entity Other Than an Individual**: Includes trusts, charities, and other organizations.
+The factors that affect the distribution requirements for inherited retirement plan accounts and IRAs include:
 
-## Beneficiary Options
+*   Whether the account owner died after 2019 (the SECURE Act made changes to the RMDs for beneficiaries if the death of the account holder occurred after 2019).
+*   The relationship of the beneficiary to the account owner and certain characteristics (spouse, minor child, disabled or chronically ill individual, entity other than an individual)
+*   Whether the original account owner died before or after their required beginning date (the first date the original account owner was required to begin taking RMDs).
 
-### Death Before Required Beginning Date (RBD)
+**Spousal Beneficiary Options**
 
-* **Keep as an Inherited Account**
-* **Take Distributions Based on Life Expectancy**
-* **Follow the 5-Year Rule**
+The spouse of the account owner has more options than non-spouse beneficiaries. The spousal beneficiary's options are:
 
-### Death After RBD
+*   Keep as an inherited account
+*   Take distributions based on their own life expectancy, or
+*   Follow the 5-year rule
+*   Rollover the account into their own IRA
 
-* **Spouse**:
-	+ Keep as an Inherited Account
-	+ Delay beginning distributions until employee would have turned 72
-	+ Take distributions based on life expectancy or follow the 10-year rule
-* **Non-Spouse Beneficiary**:
-	+ Take distributions based on life expectancy
-	+ May follow the 5-year rule
+If the death of the account holder occurred after the required beginning date, the spousal beneficiary's options are:
 
-## Rollover Options
+*   Take distributions based on their own life expectancy
+*   No 5-year rule available
 
-- **Rollover to Owner's IRA**: Transfer funds into owner's individual retirement account.
-- **Rollover to Spouse's IRA**: Transfer funds into spouse's individual retirement account if applicable.
+**Non-Spouse Beneficiary Options**
 
-## Taxes and Distribution
+If the account holder's death occurred prior to the required beginning date (or if the account is a Roth IRA), the non-spouse beneficiary's options are:
 
-- Beneficiaries must include any taxable distributions they receive in their gross income.
-- Taxation of inherited accounts may vary depending on the type of account (e.g., Roth vs. traditional).
+*   Take distributions based on their own life expectancy, beginning the end of the year following the year of death, or
+*   Follow the 5-year rule
+
+If the account holder's death occurred after the required beginning date, the non-spouse beneficiary may:
+
+*   Take distributions based on the longer of their own life expectancy or the account owner's remaining life expectancy.
+
+**Death of the Account Holder Occurred in 2020 or Later**
+
+If the account holder's death occurred prior to the required beginning date, the spouse beneficiary may:
+
+*   Keep as an inherited account
+*   Delay beginning distributions until the employee would have turned 72
+*   Take distributions based on their own life expectancy
+*   Follow the 10-year rule
+*   Rollover the account into their own IRA
+
+If the account holder's death occurred after the required beginning date, the spouse beneficiary may:
+
+*   Keep a

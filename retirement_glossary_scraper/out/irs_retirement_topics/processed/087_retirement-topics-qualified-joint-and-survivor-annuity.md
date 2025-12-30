@@ -1,35 +1,39 @@
 ---
 number: 87
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-joint-and-survivor-annuity
-downloaded_at: 2025-12-30T11:17:52.697443
-processed_at: 2025-12-30T11:36:51.187469
+downloaded_at: 2025-12-30T12:54:36.813552
+processed_at: 2025-12-30T13:13:01.099844
 ---
 
 # Qualified Joint and Survivor Annuity (QJSA)
 
 A QJSA is when retirement benefits are paid as a life annuity to the participant and a survivor annuity over the life of the participant's surviving spouse.
 
-## Rules for Survivor Benefit Payments
+### Types of QJSA
 
-* Incidental benefit rule: payment must be incidental to the primary purpose of the plan.
-* Minimum distribution requirements:
-	+ Payment under 5-year rule
-	+ Payment under life expectancy rule
+*   **Joint and Survivor Annuity (QJSA)**: The amount paid to the surviving spouse must be no less than 50% and no greater than 100% of the amount of the annuity paid during the participant's life.
+*   **Qualified Optional Survivor Annuity (QOSA)**: The amount paid to the surviving spouse is equal to a certain percentage of the amount of the annuity payable during the participant's life.
 
-## Qualified Plan Requirements
+### Rules for Survivor Benefit Payments
 
-A qualified plan like a defined benefit plan, money purchase plan, or target benefit plan must provide a QJSA to all married participants.
+*   **Incidental Benefit Rule**: Death and other nonretirement benefits must be incidental to the primary purpose of the plan.
+*   **5-Year Rule**: Payment of survivor benefits to a non-spouse beneficiary is under this rule.
+*   **Life Expectancy Rule**: Payment of survivor benefits to a non-spouse beneficiary is under this rule.
 
-## Exemptions
+### Participant Requirements
 
-Some plans are exempt from providing a QJSA if they:
+*   **Marriage Notification**: A participant who gets married must immediately notify their employer and/or retirement plan administrator.
+*   **Divorce Treatment**: A divorced participant may be required to treat their former spouse as a current spouse under the terms of the divorce.
+*   **Beneficiary Designation**: A participant can change the beneficiary of any survivor benefits not covered by a QDRO.
 
-* Require the death benefit be paid in full to the surviving spouse unless the spouse consents to another beneficiary
-* Do not offer a life annuity option as a form of benefit under the plan
-* Do not contain a direct transfer from another plan that was required to provide a survivor annuity
+### Qualified Plans
 
-## Additional Resources
+*   **Defined Benefit Plan**: Must provide a QJSA to all married participants unless they consent in writing to another form of benefit payment.
+*   **Money Purchase Plan**: Must provide a QJSA to all married participants unless they consent in writing to another form of benefit payment.
+*   **Target Benefit Plan**: Must provide a QJSA to all married participants unless they consent in writing to another form of benefit payment.
 
-* Publication 6391, Joint and Survivor Annuity (PDF)
-* Publication 504, Divorced or Separated Individuals
-* QOSA notice
+### Additional Resources
+
+*   [Publication 6391, Joint and Survivor](link)
+*   [Publication 504, Divorced or Separated Individuals](link)
+*   [QOSA Notice](link)

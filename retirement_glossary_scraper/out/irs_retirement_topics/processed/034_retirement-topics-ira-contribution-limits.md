@@ -1,36 +1,44 @@
 ---
 number: 34
 source_url: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits
-downloaded_at: 2025-12-30T11:15:34.325958
-processed_at: 2025-12-30T11:26:42.348750
+downloaded_at: 2025-12-30T12:52:04.460380
+processed_at: 2025-12-30T13:02:19.415663
 ---
 
-### Retirement Topics - IRA Contribution Limits
+# Retirement Topics - IRA Contribution Limits
+## Overview
 
-#### Overview
-The Internal Revenue Service (IRS) sets annual contribution limits for traditional and Roth Individual Retirement Accounts (IRAs).
+This article provides information on the Individual Retirement Account (IRA) contribution limits for individuals in the United States.
 
-#### Contribution Limits
+### General Contribution Limit
 
-* For **2025**:
-	+ Total contributions: $7,000 ($8,000 if 50 or older)
-* For **2024**:
-	+ Total contributions: $6,500 ($7,500 if 50 or older)
-* For **2023**:
-	+ Total contributions: $6,500 ($7,500 if 50 or older)
+* For tax years 2025 and 2024, the total contributions you can make to all traditional IRAs and Roth IRAs cannot exceed:
+	+ $7,000 if you are age 50 or older
+	+ If less, your taxable compensation for the year
+* For tax years 2023, the total contributions cannot exceed:
+	+ $6,500 if you are age 50 or older
+	+ If less, your taxable compensation for the year
+* For tax years 2022, 2021, 2020, and 2019, the total contributions cannot exceed:
+	+ $6,000 if you are age 50 or older
+	+ If less, your taxable compensation for the year
 
-#### Exceptions
-Contribution limits do not apply to:
+### Exceptions to the Contribution Limit
 
 * Rollover contributions
 * Qualified reservist repayments
-* Deducting IRA contributions
+* Deducting your IRA contribution (may be limited if income exceeds certain levels)
 
-#### Income Limitations
-The deduction of traditional IRA contributions may be limited based on income levels and coverage by a retirement plan at work.
+### Roth IRA Contribution Limits
 
-#### Spousal IRAs
-If filing jointly, one spouse can contribute to an IRA even without taxable compensation as long as the other spouse did. However, combined contributions cannot exceed reported joint return compensation.
+* In addition to the general contribution limit that applies to both Roth and traditional IRAs, your Roth IRA contribution may be limited based on your filing status and income.
 
-#### Participating in a Retirement Plan at Work
-Contributions are possible but deduction limits may apply for traditional IRA and Roth IRA contributions based on income levels.
+### Spousal IRAs
+
+* If you file a joint return, you may contribute to an IRA even if you didn't have taxable compensation as long as your spouse did.
+* The total of your combined contributions cannot exceed the taxable compensation reported on your joint return.
+
+### Example Contributions
+
+* Danny, an unmarried college student, can contribute $3,500 to his IRA for 2020 if he earned that amount in compensation.
+* John, age 42, can contribute a total of $6,000 to either a traditional or Roth IRA for 2020.
+* Sarah, age 50, can contribute $7,000 to her IRA for 2020, while her spouse can also contribute up to $6,000.

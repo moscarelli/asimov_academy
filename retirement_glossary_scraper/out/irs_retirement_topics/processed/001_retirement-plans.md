@@ -1,54 +1,99 @@
 ---
 number: 1
 source_url: https://www.irs.gov/retirement-plans
-downloaded_at: 2025-12-30T11:14:11.002065
-processed_at: 2025-12-30T11:20:22.129775
+downloaded_at: 2025-12-30T12:50:36.383634
+processed_at: 2025-12-30T12:56:02.761881
 ---
 
 # Retirement Plans
-## Overview
-Retirement plans are a type of savings plan that helps individuals set aside money for their retirement.
+Official websites use .gov and are secure through HTTPS.
 
-### How to File
-To file your taxes, follow these steps:
+## Filing for Individuals
 
-*   When to file: Typically, the tax filing deadline is April 15th.
-*   Where to file: You can file your taxes online through the IRS website or by mail with the IRS address provided on the form.
-*   Update your information: If you have any changes to your personal or business information, update it with the IRS.
+### Overview
+Filing for individuals provides information on how to file, when to file, where to file, and update your information.
 
-### Tax Records
-You can access your tax records through your online account or by requesting a transcript from the IRS. You can also apply for an Employer ID Number (EIN) and amend your return if needed.
+*   **How to File**: Follow the steps outlined in the guidance provided.
+*   **When to File**: File by the tax filing deadline or by the due date for estimated taxes if applicable.
+*   **Where to File**: Submit your return electronically through the IRS website or mail it to the address listed on the instructions.
 
 ### Refunds
-If you're due a refund, you can check the status of your refund using the "Where's My Refund?" tool on the IRS website. You can also pay by bank account or installment agreement.
+To check the status of your refund, you can use the "Where's My Refund?" tool.
 
-### Tax Credits & Deductions
-You may be eligible for tax credits and deductions, such as the Earned Income Credit (EITC) and Child Tax Credit. You can use the Tax Withholding Estimator to estimate your taxes and find out which credits and deductions you're eligible for.
+*   **Direct Deposit**: Choose direct deposit for faster and more secure refunds.
+*   **Refund Status**: Check the refund status using the IRS online system or by contacting the IRS directly.
+
+### Tax Records
+Access your tax information through the IRS account portal.
+
+*   **Tax Record (Transcript)**: Obtain a transcript of your tax return by submitting Form 4506-T to the IRS.
+*   **Identity Protection PIN (IP PIN)**: Apply for an IP PIN if you've been targeted by identity theft in the past.
+
+### Forms and Instructions
+Use the following forms and instructions to prepare and file your taxes:
+
+*   **Form 1040**: Individual Income Tax Return
+*   **Form W-9**: Request for Taxpayer Identification Number (TIN) and Certification
+*   **Form 4506-T**: Request for Transcript of Tax Return
+*   **Circular 230**: Regulations Governing Practice before the IRS
 
 ## Retirement Plans
-Retirement plans are a type of savings plan that helps individuals set aside money for their retirement.
+The following information is provided to help you understand retirement plans:
 
 ### Types of Retirement Plans
-There are several types of retirement plans, including:
+Explore options for retirement plans, including traditional IRAs, Roth IRAS, SIMPLE IRA plans, SEP plans, and 401(k) plans.
 
-*   **Traditional IRAs**: Contributions are tax-deductible, and earnings grow tax-deferred.
-*   **Roth IRAs**: Contributions are made with after-tax dollars, but earnings grow tax-free.
-*   **SIMPLE IRA plans**: Simplified Employee Pension Individual Retirement Account plan for small businesses.
-*   **SEP plans**: Self-employed retirement plan for self-employed individuals.
+*   **Traditional IRAs**: Contribute to a tax-deferred retirement account.
+*   **Roth IRAs**: Make after-tax contributions that grow tax-free.
 
 ### Required Minimum Distributions (RMDs)
-If you're 72 or older, you may need to take RMDs from your retirement plan. You can calculate the amount you need to withdraw using the IRS table of life expectancies.
+Understand the requirements for RMDs from your retirement plan:
 
-## Forms and Publications
-You can find forms and publications for individual retirement accounts on the IRS website. Some popular forms include:
+*   **Age 72**: Begin taking annual distributions from your plan.
+*   **Minimum Amount**: Determine the minimum amount you need to withdraw each year.
 
-*   **Form 1040**: Individual Income Tax Return.
-*   **Form W-9**: Request for Taxpayer Identification Number (TIN) and Certification.
-*   **Form 4506-T**: Request for Transcript of Tax Return.
+## Forms and Instructions
+Access the following forms and instructions to prepare and file your taxes:
 
-### Circular 230
-Circular 230 provides guidance on the tax professional practice before the IRS. You can find more information on this topic on the IRS website.
+*   **Form 1040-X**: Amended Individual Income Tax Return
+*   **Form W-7**: Apply for an ITIN (Individual Taxpayer Identification Number)
+*   **Circular 230**: Regulations Governing Practice before the IRS
 
-## Resources
+## News and Resources
+Stay informed about changes to retirement plans through the following resources:
 
-You can find news, events, and educational resources on the IRS website. You can also request a speaker or attend a webinar to learn more about retirement plans.
+*   **News**: Read news articles on the SECURE 2.0 Act of 2022 and its impact on retirement plans.
+*   **Fact Sheets**: Review fact sheets providing guidance on disaster relief FAQs for retirement plans under the SECURE 2.0 Act.
+
+## Contact Information
+Reach out to the IRS through the following channels:
+
+*   **Phone**: Call the IRS at 1-800-829-1040 for general inquiries or tax issues.
+*   **Email**: Submit questions or concerns via the IRS website's contact form.
+*   **In Person**: Visit an IRS office in person or schedule a meeting with an agent.
+
+## Additional Resources
+Consult the following resources for more information on retirement plans:
+
+*   **U.S. Treasury**: Review guidance on tax-advantaged retirement plans and Individual Retirement Arrangements (IRAs).
+*   **Treasury Inspector General for Tax Administration**: Explore resources on tax administration, enforcement, and compliance.
+*   **USA.gov**: Find information on various government services and resources related to taxes and retirement planning.
+*   **Vote.gov**: Register to vote or learn more about the electoral process.
+
+## Glossary
+Familiarize yourself with key terms and definitions related to retirement plans:
+
+*   **401(k)**: A type of defined contribution plan for employees offered by their employer.
+*   **SIMPLE IRA**: An individual retirement account designed for self-employed individuals and small business owners.
+*   **SEP plan**: A solo 401(k) plan available to self-employed individuals.
+*   **RMD**: Required minimum distribution from a retirement plan.
+
+## Frequently Asked Questions
+Get answers to common questions about retirement plans:
+
+*   **What is a 401(k) plan?**
+    *   A type of defined contribution plan for employees offered by their employer.
+*   **How do I apply for an ITIN?**
+    *   Use Form W-7 to submit your application.
+*   **What are RMDs?**
+    *   Required minimum distributions from a retirement plan, which must be taken starting at age 72.
