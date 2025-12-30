@@ -5,15 +5,24 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "accelerate>=1.12.0",
     "agno>=2.3.20",
+    "airllm>=2.11.0",
+    "chonkie>=1.5.1",
+    "chromadb>=1.4.0",
     "ddgs>=9.10.0",
     "fastapi>=0.127.0",
     "markdown>=3.10",
     "ollama>=0.6.1",
     "openai>=2.14.0",
+    "optimum==1.27.0",
+    "pdfreader>=0.1.15",
+    "pypdf>=6.5.0",
     "python-dotenv>=1.2.1",
+    "sentencepiece>=0.2.1",
     "sqlalchemy>=2.0.45",
     "tavily-python>=0.7.17",
+    "transformers<4.49",
     "uvicorn>=0.40.0",
     "yfinance>=1.0",
 ]
