@@ -20,14 +20,15 @@ class ScraperConfig:
     
     # Control flags
     skip_existing_raw: bool = True
-    process_content: bool = True
+    process_content: bool = False
     wait_before_processing: int = 20
     index_to_chromadb: bool = True
     
     # Ollama settings
     ollama_model: str = "llama3.2:latest"
+    ollama_embedding_model: str = "nomic-embed-text:latest"
     ollama_host: str = "http://localhost:11434"
-    ollama_embedding_dimensions: int = 3072
+    ollama_embedding_dimensions: int = 768
     ollama_timeout: int = 60
     
     # ChromaDB settings
