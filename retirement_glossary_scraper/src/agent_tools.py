@@ -361,21 +361,61 @@ def search_knowledge_base(query: str, limit: int = 5) -> Dict[str, Any]:
 def assess_progress() -> Dict[str, Any]:
     """
     Check progress toward goal. NO PARAMETERS - call as: assess_progress()
+    Verifies ACTUAL ChromaDB state vs memory to detect if re-indexing is needed.
     Returns indexed document count, progress percentage, quality metrics, status, and recommendations.
     
     Returns:
-        Dict with 'documents_indexed', 'progress_percentage', 'quality_metrics', 'status', 'recommendation', 'goal_reached'
+        Dict with 'documents_indexed', 'progress_percentage', 'quality_metrics', 'status', 'recommendation', 'goal_reached', 'actual_db_count', 'memory_count', 'needs_reindex'
     """
     try:
-        indexed_count = _memory.get_indexed_count()
+        memory_indexed_count = _memory.get_indexed_count()
         quality_metrics = _memory.get_quality_metrics()
         failed_attempts = len(_memory.memory.get("failed_attempts", []))
+        
+        # VERIFY ACTUAL CHROMADB STATE
+        actual_db_count = 0
+        needs_reindex = False
+        try:
+            from agno.knowledge.embedder.ollama import OllamaEmbedder
+            from agno.vectordb.chroma import ChromaDb
+            
+            embedder = OllamaEmbedder(
+                id=_config.ollama_embedding_model,
+                host=_config.ollama_host,
+                dimensions=_config.ollama_embedding_dimensions,
+                timeout=_config.ollama_timeout
+            )
+            
+            vector_db = ChromaDb(
+                collection=_config.chroma_collection,
+                embedder=embedder,
+                persistent_client=True,
+                path=_config.chroma_path,
+            )
+            
+            # Try a test search to see if database has content
+            test_results = vector_db.search("retirement", limit=1)
+            actual_db_count = len(test_results) if test_results else 0
+            
+            # Check if memory says docs are indexed but DB is empty
+            if memory_indexed_count > 0 and actual_db_count == 0:
+                needs_reindex = True
+                
+        except Exception as e:
+            # If can't access DB, assume needs indexing
+            needs_reindex = True if memory_indexed_count > 0 else False
+        
+        # Use actual count if available, otherwise use memory
+        indexed_count = memory_indexed_count if not needs_reindex else 0
         
         # Calculate progress
         progress_pct = min(100, (indexed_count / 100) * 100)
         
         # Determine recommendation
-        if indexed_count < 50:
+        if needs_reindex:
+            recommendation = "ChromaDB is empty or missing - run index_to_database() immediately"
+            status = "needs_reindex"
+        elif indexed_count < 50:
             recommendation = "Continue aggressive scraping and indexing"
             status = "in_progress"
         elif indexed_count < 100:
@@ -391,6 +431,9 @@ def assess_progress() -> Dict[str, Any]:
         result = {
             "success": True,
             "documents_indexed": indexed_count,
+            "actual_db_count": actual_db_count,
+            "memory_count": memory_indexed_count,
+            "needs_reindex": needs_reindex,
             "progress_percentage": progress_pct,
             "quality_metrics": quality_metrics,
             "failed_attempts": failed_attempts,

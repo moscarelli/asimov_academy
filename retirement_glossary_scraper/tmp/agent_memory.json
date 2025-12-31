@@ -29,116 +29,178 @@
         "errors": 0,
         "collection": "irs_retirement_glossary"
       }
+    },
+    {
+      "timestamp": "2025-12-30T15:51:30.019141",
+      "event_type": "analysis",
+      "data": {
+        "success": true,
+        "page_count": 107,
+        "topics_found": [
+          "401k",
+          "contributions",
+          "distributions",
+          "RMD",
+          "IRA"
+        ],
+        "quality_score": 1.0,
+        "recommended_action": "scrape"
+      }
+    },
+    {
+      "timestamp": "2025-12-30T15:55:16.785181",
+      "event_type": "process",
+      "data": {
+        "success": true,
+        "processed": 106,
+        "errors": 0
+      }
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.261156",
+      "event_type": "index",
+      "data": {
+        "success": true,
+        "indexed": 106,
+        "errors": 0,
+        "collection": "irs_retirement_glossary"
+      }
+    },
+    {
+      "timestamp": "2025-12-30T16:15:04.927879",
+      "event_type": "process",
+      "data": {
+        "success": true,
+        "processed": 106,
+        "errors": 0
+      }
+    },
+    {
+      "timestamp": "2025-12-30T16:15:20.076696",
+      "event_type": "analysis",
+      "data": {
+        "success": true,
+        "page_count": 107,
+        "topics_found": [
+          "distributions",
+          "RMD",
+          "401k",
+          "contributions",
+          "IRA"
+        ],
+        "quality_score": 1.0,
+        "recommended_action": "scrape"
+      }
     }
   ],
   "scraped_urls": [
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-defined-benefit-plan-benefit-limits",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-joint-and-survivor-annuity",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-457b-contribution-limits",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-disability",
-    "https://www.irs.gov/retirement-plans/irc-403b-tax-sheltered-annuity-plans",
-    "https://www.irs.gov/retirement-plans/ep-examination-process-guide",
-    "https://www.irs.gov/retirement-plans/operate-a-retirement-plan",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting",
-    "https://www.irs.gov/retirement-plans/determination-opinion-and-advisory-letters",
-    "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
-    "https://www.irs.gov/retirement-plans/treatment-of-marriages-of-same-sex-couples-for-retirement-plan-purposes",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/fix-it-guides-common-problems-real-solutions",
-    "https://www.irs.gov/retirement-plans",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions",
-    "https://www.irs.gov/retirement-plans/published-guidance",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-prohibited-transactions",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-death",
-    "https://www.irs.gov/tax-professionals/enrolled-retirement-plan-agent-program",
-    "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-profit-sharing-plan",
-    "https://www.irs.gov/retirement-plans/valuation-of-plan-assets-at-fair-market-value",
-    "https://www.irs.gov/retirement-plans/rollovers-of-after-tax-contributions-in-retirement-plans",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment",
-    "https://www.irs.gov/retirement-plans/retirement-plans-startup-costs-tax-credit",
-    "https://www.irs.gov/retirement-plans/maintaining-your-retirement-plan-records",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/saving-for-retirement",
-    "https://www.irs.gov/retirement-plans/help-with-choosing-a-retirement-plan",
-    "https://www.irs.gov/retirement-plans/401k-plans",
-    "https://www.irs.gov/retirement-plans/missing-participants-or-beneficiaries",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-benefits-of-saving-now",
-    "https://www.irs.gov/retirement-plans/examinations-and-enforcement",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/what-is-the-employee-plans-office-and-what-does-it-do",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-eligibility-and-participation",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-pre-retirement-survivor-annuity-qpsa",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-prohibited-transactions",
-    "https://www.irs.gov/retirement-plans/governmental-plans-under-internal-revenue-code-section-401a",
-    "https://www.irs.gov/retirement-plans/irc-457b-deferred-compensation-plans",
-    "https://www.irs.gov/retirement-plans/substantially-equal-periodic-payments",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-contributions",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-designated-roth-account",
-    "https://www.irs.gov/retirement-plans/interest-rates-tables",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-employer-merges-with-another-company",
-    "https://www.irs.gov/retirement-plans/retirement-plans-for-small-entities-and-self-employed",
-    "https://www.irs.gov/retirement-plans/letter-status",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-plan-assets",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit",
-    "https://www.irs.gov/retirement-plans/ep-issue-snapshots",
-    "https://www.irs.gov/retirement-plans/roth-iras",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/salary-reduction-simplified-employee-pension-plan-sarsep",
-    "https://www.irs.gov/retirement-plans/actuarial-tables",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-bankruptcy-of-employer",
-    "https://www.irs.gov/retirement-plans/about-employee-plans",
-    "https://www.irs.gov/retirement-plans/have-you-had-your-retirement-plan-checkup-this-year",
-    "https://www.irs.gov/retirement-plans/is-my-401k-top-heavy",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/401k-plan-overview",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
-    "https://www.irs.gov/retirement-plans/conferences-and-educational-services",
-    "https://www.irs.gov/retirement-plans/correcting-plan-errors",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds",
-    "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-money-purchase-plan",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/sep-contribution-limits-including-grandfathered-sarseps",
-    "https://www.irs.gov/retirement-plans/form-8955-ssa-resources",
-    "https://www.irs.gov/retirement-plans/form-5500-corner",
-    "https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-normal-distributions",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro-qualified-domestic-relations-order",
     "https://www.irs.gov/retirement-plans/plan-sponsor/a-plan-sponsors-responsibilities",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-fees",
-    "https://www.irs.gov/retirement-plans/disaster-relief-for-retirement-plans-and-iras",
-    "https://www.irs.gov/retirement-plans/employee-plans-customer-account-services",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/changes-in-your-life-may-affect-retirement-planning",
-    "https://www.irs.gov/retirement-plans/retirement-plans-frequently-asked-questions-faqs",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/benefits-of-setting-up-a-retirement-plan",
-    "https://www.irs.gov/retirement-plans/defined-benefit-plan",
-    "https://www.irs.gov/retirement-plans/employee-stock-ownership-plans-esops",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-plan",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-divorce",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plan-notices-to-interested-parties",
-    "https://www.irs.gov/retirement-plans/newsletters",
-    "https://www.irs.gov/retirement-plans/irs-nationwide-tax-forum-presentations",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-automatic-enrollment",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-getting-married-andor-having-children",
-    "https://www.irs.gov/retirement-plans/preapproved-retirement-plans",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/payroll-deduction-ira",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary",
-    "https://www.irs.gov/retirement-plans/approved-nonbank-trustees-and-custodians",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits",
-    "https://www.irs.gov/retirement-plans/plan-sponsor/types-of-retirement-plans",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions",
-    "https://www.irs.gov/retirement-plans/international-issues-affecting-retirement-plans",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/when-can-a-retirement-plan-distribute-benefits",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-hardship-distributions",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-participant-directed-accounts",
+    "https://www.irs.gov/retirement-plans/conferences-and-educational-services",
+    "https://www.irs.gov/tax-professionals/enrolled-retirement-plan-agent-program",
     "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions",
-    "https://www.irs.gov/retirement-plans/retirement-plan-forms-and-publications",
-    "https://www.irs.gov/retirement-plans/employee-plans-compliance-unit-epcu",
-    "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-userra-and-sscra",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plans-definitions",
-    "https://www.irs.gov/retirement-plans/tax-consequences-of-plan-disqualification",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro-qualified-domestic-relations-order",
+    "https://www.irs.gov/retirement-plans/401k-plans",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-death",
+    "https://www.irs.gov/retirement-plans/have-you-had-your-retirement-plan-checkup-this-year",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/types-of-retirement-plans",
     "https://www.irs.gov/retirement-plans/employee-plans-abusive-tax-transactions",
+    "https://www.irs.gov/retirement-plans/international-issues-affecting-retirement-plans",
+    "https://www.irs.gov/retirement-plans/employee-stock-ownership-plans-esops",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-457b-contribution-limits",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions",
+    "https://www.irs.gov/retirement-plans/rollovers-of-after-tax-contributions-in-retirement-plans",
+    "https://www.irs.gov/retirement-plans/governmental-plans-under-internal-revenue-code-section-401a",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/fix-it-guides-common-problems-real-solutions",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-divorce",
     "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-notices",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/required-minimum-distribution-worksheets",
+    "https://www.irs.gov/retirement-plans/correcting-plan-errors",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/401k-plan-overview",
+    "https://www.irs.gov/retirement-plans/substantially-equal-periodic-payments",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment",
+    "https://www.irs.gov/retirement-plans/actuarial-tables",
+    "https://www.irs.gov/retirement-plans/retirement-plans-startup-costs-tax-credit",
+    "https://www.irs.gov/retirement-plans/interest-rates-tables",
+    "https://www.irs.gov/retirement-plans/ep-examination-process-guide",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/sep-contribution-limits-including-grandfathered-sarseps",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/saving-for-retirement",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-pre-retirement-survivor-annuity-qpsa",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/changes-in-your-life-may-affect-retirement-planning",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/benefits-of-setting-up-a-retirement-plan",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-what-happens-when-an-employee-has-elective-deferrals-in-excess-of-the-limits",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-disability",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-plan",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/salary-reduction-simplified-employee-pension-plan-sarsep",
+    "https://www.irs.gov/retirement-plans/retirement-plan-forms-and-publications",
+    "https://www.irs.gov/retirement-plans/preapproved-retirement-plans",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/what-is-the-employee-plans-office-and-what-does-it-do",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting",
+    "https://www.irs.gov/retirement-plans/valuation-of-plan-assets-at-fair-market-value",
+    "https://www.irs.gov/retirement-plans/employee-plans-compliance-unit-epcu",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+    "https://www.irs.gov/retirement-plans/irc-403b-tax-sheltered-annuity-plans",
+    "https://www.irs.gov/retirement-plans/determination-opinion-and-advisory-letters",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plans-definitions",
+    "https://www.irs.gov/retirement-plans/roth-iras",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds",
+    "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-userra-and-sscra",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-prohibited-transactions",
     "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-403b-contribution-limits",
-    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-what-happens-when-an-employee-has-elective-deferrals-in-excess-of-the-limits"
+    "https://www.irs.gov/retirement-plans/examinations-and-enforcement",
+    "https://www.irs.gov/retirement-plans/published-guidance",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-plan-assets",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-bankruptcy-of-employer",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-eligibility-and-participation",
+    "https://www.irs.gov/retirement-plans/approved-nonbank-trustees-and-custodians",
+    "https://www.irs.gov/retirement-plans",
+    "https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-defined-benefit-plan-benefit-limits",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-employer-merges-with-another-company",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-getting-married-andor-having-children",
+    "https://www.irs.gov/retirement-plans/retirement-plans-for-small-entities-and-self-employed",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-benefits-of-saving-now",
+    "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-profit-sharing-plan",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-fees",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-participant-directed-accounts",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-prohibited-transactions",
+    "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+    "https://www.irs.gov/retirement-plans/form-5500-corner",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+    "https://www.irs.gov/retirement-plans/retirement-plans-frequently-asked-questions-faqs",
+    "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-money-purchase-plan",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-designated-roth-account",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/required-minimum-distribution-worksheets",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-normal-distributions",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/when-can-a-retirement-plan-distribute-benefits",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/payroll-deduction-ira",
+    "https://www.irs.gov/retirement-plans/newsletters",
+    "https://www.irs.gov/retirement-plans/treatment-of-marriages-of-same-sex-couples-for-retirement-plan-purposes",
+    "https://www.irs.gov/retirement-plans/tax-consequences-of-plan-disqualification",
+    "https://www.irs.gov/retirement-plans/ep-issue-snapshots",
+    "https://www.irs.gov/retirement-plans/employee-plans-customer-account-services",
+    "https://www.irs.gov/retirement-plans/irs-nationwide-tax-forum-presentations",
+    "https://www.irs.gov/retirement-plans/form-8955-ssa-resources",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-contributions",
+    "https://www.irs.gov/retirement-plans/about-employee-plans",
+    "https://www.irs.gov/retirement-plans/maintaining-your-retirement-plan-records",
+    "https://www.irs.gov/retirement-plans/irc-457b-deferred-compensation-plans",
+    "https://www.irs.gov/retirement-plans/defined-benefit-plan",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-hardship-distributions",
+    "https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-joint-and-survivor-annuity",
+    "https://www.irs.gov/retirement-plans/is-my-401k-top-heavy",
+    "https://www.irs.gov/retirement-plans/missing-participants-or-beneficiaries",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plan-notices-to-interested-parties",
+    "https://www.irs.gov/retirement-plans/letter-status",
+    "https://www.irs.gov/retirement-plans/help-with-choosing-a-retirement-plan",
+    "https://www.irs.gov/retirement-plans/disaster-relief-for-retirement-plans-and-iras",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-automatic-enrollment",
+    "https://www.irs.gov/retirement-plans/operate-a-retirement-plan"
   ],
   "indexed_documents": [
     {
@@ -776,6 +838,642 @@
       "filename": "107_retirement-topics-vesting.md",
       "title": "Vesting in a Retirement Plan",
       "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.129107",
+      "filename": "001_retirement-plans.md",
+      "title": "Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.130112",
+      "filename": "002_individual-retirement-arrangements-iras.md",
+      "title": "Individual Retirement Arrangements (IRAs)",
+      "url": "https://www.irs.gov/retirement-plans/individual-retirement-arrangements-iras"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.131127",
+      "filename": "003_types-of-retirement-plans.md",
+      "title": "Types of Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/types-of-retirement-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.132195",
+      "filename": "004_retirement-topics-required-minimum-distributions-rmds.md",
+      "title": "Required Minimum Distributions (RMDs)",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.133296",
+      "filename": "005_published-guidance.md",
+      "title": "Published Guidance",
+      "url": "https://www.irs.gov/retirement-plans/published-guidance"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.134354",
+      "filename": "006_retirement-plan-forms-and-publications.md",
+      "title": "Retirement Plan Forms and Publications",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plan-forms-and-publications"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.135662",
+      "filename": "007_operate-a-retirement-plan.md",
+      "title": "Operate a Retirement Plan",
+      "url": "https://www.irs.gov/retirement-plans/operate-a-retirement-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.136897",
+      "filename": "008_newsletters.md",
+      "title": "Newsletters",
+      "url": "https://www.irs.gov/retirement-plans/newsletters"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.138194",
+      "filename": "009_401k-plans.md",
+      "title": "401(k) Plans",
+      "url": "https://www.irs.gov/retirement-plans/401k-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.139290",
+      "filename": "010_401k-plan-overview.md",
+      "title": "401(k) Plan Overview",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/401k-plan-overview"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.140675",
+      "filename": "011_irc-403b-tax-sheltered-annuity-plans.md",
+      "title": "IRC 403(b) Tax-Sheltered Annuity Plans",
+      "url": "https://www.irs.gov/retirement-plans/irc-403b-tax-sheltered-annuity-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.141865",
+      "filename": "012_irc-457b-deferred-compensation-plans.md",
+      "title": "IRC 457(b) Deferred Compensation Plans",
+      "url": "https://www.irs.gov/retirement-plans/irc-457b-deferred-compensation-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.142948",
+      "filename": "013_form-5500-corner.md",
+      "title": "Form 5500 Corner",
+      "url": "https://www.irs.gov/retirement-plans/form-5500-corner"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.144300",
+      "filename": "014_form-8955-ssa-resources.md",
+      "title": "Form 8955-SSA Resources",
+      "url": "https://www.irs.gov/retirement-plans/form-8955-ssa-resources"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.145898",
+      "filename": "015_employee-plans-abusive-tax-transactions.md",
+      "title": "Employee Plans Abusive Tax Transactions",
+      "url": "https://www.irs.gov/retirement-plans/employee-plans-abusive-tax-transactions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.148116",
+      "filename": "016_actuarial-tables.md",
+      "title": "Actuarial Tables",
+      "url": "https://www.irs.gov/retirement-plans/actuarial-tables"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.149650",
+      "filename": "017_retirement-topics-automatic-enrollment.md",
+      "title": "Retirement Topics - Automatic Enrollment",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-automatic-enrollment"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.150673",
+      "filename": "018_retirement-topics-bankruptcy-of-employer.md",
+      "title": "Retirement Topics - Bankruptcy of Employer",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-bankruptcy-of-employer"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.151933",
+      "filename": "019_retirement-topics-beneficiary.md",
+      "title": "Retirement topics - Beneficiary",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.153617",
+      "filename": "020_retirement-topics-benefits-of-saving-now.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-benefits-of-saving-now"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.155456",
+      "filename": "021_benefits-of-setting-up-a-retirement-plan.md",
+      "title": "Benefits of Setting Up a Retirement Plan",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/benefits-of-setting-up-a-retirement-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.157267",
+      "filename": "022_retirement-plans-definitions.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plans-definitions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.159405",
+      "filename": "023_have-you-had-your-retirement-plan-checkup-this-year.md",
+      "title": "Retirement Plan Checkup: A Guide for Individuals and Businesses",
+      "url": "https://www.irs.gov/retirement-plans/have-you-had-your-retirement-plan-checkup-this-year"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.160989",
+      "filename": "024_help-with-choosing-a-retirement-plan.md",
+      "title": "Help with Choosing a Retirement Plan",
+      "url": "https://www.irs.gov/retirement-plans/help-with-choosing-a-retirement-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.162504",
+      "filename": "025_about-employee-plans.md",
+      "title": "About Employee Plans",
+      "url": "https://www.irs.gov/retirement-plans/about-employee-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.163749",
+      "filename": "026_retirement-topics-contributions.md",
+      "title": "Retirement Topics - Contributions",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-contributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.164953",
+      "filename": "027_rollovers-of-after-tax-contributions-in-retirement-plans.md",
+      "title": "Rollovers of After-Tax Contributions in Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/rollovers-of-after-tax-contributions-in-retirement-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.166541",
+      "filename": "028_retirement-topics-catch-up-contributions.md",
+      "title": "Retirement Topics - Catch-up Contributions",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.169272",
+      "filename": "029_retirement-topics-what-happens-when-an-employee-has-elective-deferrals-in-excess-of-the-limits.md",
+      "title": "Retirement Topics - What happens when an employee has elective deferrals in excess of the limits?",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-what-happens-when-an-employee-has-elective-deferrals-in-excess-of-the-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.170466",
+      "filename": "030_retirement-topics-401k-and-profit-sharing-plan-contribution-limits.md",
+      "title": "Retirement Topics - 401(k) and Profit-Sharing Plan Contribution Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.171604",
+      "filename": "031_retirement-topics-403b-contribution-limits.md",
+      "title": "Retirement Topics 403b Contribution Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-403b-contribution-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.172682",
+      "filename": "032_retirement-topics-457b-contribution-limits.md",
+      "title": "Retirement Topics 457b Contribution Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-457b-contribution-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.173706",
+      "filename": "033_retirement-topics-defined-benefit-plan-benefit-limits.md",
+      "title": "Retirement Topics - Defined Benefit Plan Benefit Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-defined-benefit-plan-benefit-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.175013",
+      "filename": "034_retirement-topics-ira-contribution-limits.md",
+      "title": "Retirement Topics - IRA Contribution Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.176257",
+      "filename": "035_sep-contribution-limits-including-grandfathered-sarseps.md",
+      "title": "SEP Contribution Limits (Including Grandfathered SARSEPs)",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/sep-contribution-limits-including-grandfathered-sarseps"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.177258",
+      "filename": "036_retirement-topics-simple-ira-contribution-limits.md",
+      "title": "Retirement Topics - SIMPLE IRA Contribution Limits",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.178496",
+      "filename": "037_correcting-plan-errors.md",
+      "title": "Correcting Plan Errors",
+      "url": "https://www.irs.gov/retirement-plans/correcting-plan-errors"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.180026",
+      "filename": "038_cola-increases-for-dollar-limitations-on-benefits-and-contributions.md",
+      "title": "COLA Increases for Dollar Limitations on Benefits and Contributions",
+      "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.181449",
+      "filename": "039_employee-plans-customer-account-services.md",
+      "title": "Employee Plans Customer Account Services",
+      "url": "https://www.irs.gov/retirement-plans/employee-plans-customer-account-services"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.183284",
+      "filename": "040_retirement-topics-death.md",
+      "title": "Retirement Topics - Death",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-death"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.185153",
+      "filename": "041_defined-benefit-plan.md",
+      "title": "Defined Benefit Plan",
+      "url": "https://www.irs.gov/retirement-plans/defined-benefit-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.187058",
+      "filename": "042_determination-opinion-and-advisory-letters.md",
+      "title": "Determination, Opinion and Advisory Letters",
+      "url": "https://www.irs.gov/retirement-plans/determination-opinion-and-advisory-letters"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.188492",
+      "filename": "043_letter-status.md",
+      "title": "Letter Status",
+      "url": "https://www.irs.gov/retirement-plans/letter-status"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.190527",
+      "filename": "044_retirement-topics-disability.md",
+      "title": "Retirement Topics - Disability",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-disability"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.191545",
+      "filename": "045_disaster-relief-for-retirement-plans-and-iras.md",
+      "title": "Disaster Relief for Retirement Plans and IRAs",
+      "url": "https://www.irs.gov/retirement-plans/disaster-relief-for-retirement-plans-and-iras"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.192557",
+      "filename": "046_when-can-a-retirement-plan-distribute-benefits.md",
+      "title": "When Can a Retirement Plan Distribute Benefits?",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/when-can-a-retirement-plan-distribute-benefits"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.193565",
+      "filename": "047_retirement-topics-hardship-distributions.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-hardship-distributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.194581",
+      "filename": "048_retirement-topics-exceptions-to-tax-on-early-distributions.md",
+      "title": "Exceptions to Tax on Early Distributions from Qualified Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.195649",
+      "filename": "049_retirement-topics-tax-on-normal-distributions.md",
+      "title": "Retirement Topics - Tax on Normal Distributions",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-normal-distributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.196658",
+      "filename": "050_tax-consequences-of-plan-disqualification.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/tax-consequences-of-plan-disqualification"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.197673",
+      "filename": "051_retirement-topics-divorce.md",
+      "title": "Retirement Topics - Divorce",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-divorce"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.198779",
+      "filename": "052_retirement-topics-qdro-qualified-domestic-relations-order.md",
+      "title": "Retirement topics \u2014 QDRO: Qualified domestic relations order",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro-qualified-domestic-relations-order"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.199939",
+      "filename": "053_retirement-topics-eligibility-and-participation.md",
+      "title": "Retirement Topics - Eligibility and Participation",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-eligibility-and-participation"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.201037",
+      "filename": "054_what-is-the-employee-plans-office-and-what-does-it-do.md",
+      "title": "What is the Employee Plans Office and what does it do?",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/what-is-the-employee-plans-office-and-what-does-it-do"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.202100",
+      "filename": "055_employee-stock-ownership-plans-esops.md",
+      "title": "Employee Stock Ownership Plans (ESOPs)",
+      "url": "https://www.irs.gov/retirement-plans/employee-stock-ownership-plans-esops"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.203198",
+      "filename": "056_enrolled-retirement-plan-agent-program.md",
+      "title": "Enrolled Retirement Plan Agent Program",
+      "url": "https://www.irs.gov/tax-professionals/enrolled-retirement-plan-agent-program"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.204262",
+      "filename": "057_examinations-and-enforcement.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/examinations-and-enforcement"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.205333",
+      "filename": "058_employee-plans-compliance-unit-epcu.md",
+      "title": "Employee Plans Compliance Unit (EPCU)",
+      "url": "https://www.irs.gov/retirement-plans/employee-plans-compliance-unit-epcu"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.206403",
+      "filename": "059_ep-examination-process-guide.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/ep-examination-process-guide"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.207474",
+      "filename": "060_retirement-plans-frequently-asked-questions-faqs.md",
+      "title": "Retirement Plans Frequently Asked Questions (FAQs)",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plans-frequently-asked-questions-faqs"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.208562",
+      "filename": "061_fix-it-guides-common-problems-real-solutions.md",
+      "title": "Fix-it Guides - Common Problems, Real Solutions",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/fix-it-guides-common-problems-real-solutions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.209668",
+      "filename": "062_governmental-plans-under-internal-revenue-code-section-401a.md",
+      "title": "Governmental Plans Under Section 401(a)",
+      "url": "https://www.irs.gov/retirement-plans/governmental-plans-under-internal-revenue-code-section-401a"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.210745",
+      "filename": "063_interest-rates-tables.md",
+      "title": "Interest Rates Tables",
+      "url": "https://www.irs.gov/retirement-plans/interest-rates-tables"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.211826",
+      "filename": "064_retirement-plan-notices-to-interested-parties.md",
+      "title": "Retirement Plan Notices to Interested Parties",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-plan-notices-to-interested-parties"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.212906",
+      "filename": "065_international-issues-affecting-retirement-plans.md",
+      "title": "International Issues Affecting Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/international-issues-affecting-retirement-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.213989",
+      "filename": "066_retirement-topics-plan-assets.md",
+      "title": "Retirement Topics - Plan Assets",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-plan-assets"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.215342",
+      "filename": "067_retirement-topics-participant-directed-accounts.md",
+      "title": "Retirement Topics: Participant-Directed Accounts",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-participant-directed-accounts"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.216559",
+      "filename": "068_retirement-topics-fees.md",
+      "title": "Retirement topics \u2014 Fees",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-fees"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.217643",
+      "filename": "069_ep-issue-snapshots.md",
+      "title": "EP Issue Snapshots",
+      "url": "https://www.irs.gov/retirement-plans/ep-issue-snapshots"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.218741",
+      "filename": "070_changes-in-your-life-may-affect-retirement-planning.md",
+      "title": "Changes in your life may affect retirement planning",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/changes-in-your-life-may-affect-retirement-planning"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.219872",
+      "filename": "071_retirement-topics-loans.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.220994",
+      "filename": "072_retirement-topics-getting-married-andor-having-children.md",
+      "title": "Retirement Topics - Getting Married and/or Having Children",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-getting-married-andor-having-children"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.222091",
+      "filename": "073_retirement-topics-employer-merges-with-another-company.md",
+      "title": "Retirement topics - Employer merges with another company",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-employer-merges-with-another-company"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.223203",
+      "filename": "074_retirement-plans-faqs-regarding-userra-and-sscra.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-userra-and-sscra"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.224341",
+      "filename": "075_missing-participants-or-beneficiaries.md",
+      "title": "Missing Participants or Beneficiaries",
+      "url": "https://www.irs.gov/retirement-plans/missing-participants-or-beneficiaries"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.225465",
+      "filename": "076_choosing-a-retirement-plan-money-purchase-plan.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-money-purchase-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.226565",
+      "filename": "077_approved-nonbank-trustees-and-custodians.md",
+      "title": "Approved Nonbank Trustees and Custodians",
+      "url": "https://www.irs.gov/retirement-plans/approved-nonbank-trustees-and-custodians"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.227669",
+      "filename": "078_retirement-topics-notices.md",
+      "title": "Retirement Topics - Notices",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-notices"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.228779",
+      "filename": "079_conferences-and-educational-services.md",
+      "title": "Conferences and Educational Services",
+      "url": "https://www.irs.gov/retirement-plans/conferences-and-educational-services"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.230132",
+      "filename": "080_irs-nationwide-tax-forum-presentations.md",
+      "title": "IRS Nationwide Tax Forum Presentations",
+      "url": "https://www.irs.gov/retirement-plans/irs-nationwide-tax-forum-presentations"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.231353",
+      "filename": "081_payroll-deduction-ira.md",
+      "title": "Payroll Deduction IRA",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/payroll-deduction-ira"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.232491",
+      "filename": "082_a-plan-sponsors-responsibilities.md",
+      "title": "A Plan Sponsor's Responsibilities",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/a-plan-sponsors-responsibilities"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.233612",
+      "filename": "083_preapproved-retirement-plans.md",
+      "title": "Preapproved Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/preapproved-retirement-plans"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.234729",
+      "filename": "084_choosing-a-retirement-plan-profit-sharing-plan.md",
+      "title": "Choosing a Retirement Plan: Profit Sharing Plan",
+      "url": "https://www.irs.gov/retirement-plans/choosing-a-retirement-plan-profit-sharing-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.235862",
+      "filename": "085_retirement-topics-prohibited-transactions.md",
+      "title": "Retirement topics - Prohibited transactions",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-prohibited-transactions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.236989",
+      "filename": "086_retirement-topics-tax-on-prohibited-transactions.md",
+      "title": "Retirement Topics - Tax on Prohibited Transactions",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-prohibited-transactions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.238119",
+      "filename": "087_retirement-topics-qualified-joint-and-survivor-annuity.md",
+      "title": "Qualified Joint and Survivor Annuity (QJSA)",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-joint-and-survivor-annuity"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.239328",
+      "filename": "088_retirement-topics-qualified-pre-retirement-survivor-annuity-qpsa.md",
+      "title": "Qualified Pre-Retirement Survivor Annuity (QPSA)",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qualified-pre-retirement-survivor-annuity-qpsa"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.240459",
+      "filename": "089_maintaining-your-retirement-plan-records.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/maintaining-your-retirement-plan-records"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.241582",
+      "filename": "090_required-minimum-distribution-worksheets.md",
+      "title": "Required Minimum Distribution Worksheets",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/required-minimum-distribution-worksheets"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.242713",
+      "filename": "091_retirement-plans-for-small-entities-and-self-employed.md",
+      "title": "Retirement Plans for Small Entities and Self-Employed",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plans-for-small-entities-and-self-employed"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.243848",
+      "filename": "092_retirement-savings-contributions-credit-savers-credit.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.244989",
+      "filename": "093_rollovers-of-retirement-plan-and-ira-distributions.md",
+      "title": "Untitled",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.246306",
+      "filename": "094_retirement-topics-designated-roth-account.md",
+      "title": "Retirement Topics - Designated Roth Account",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-designated-roth-account"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.247444",
+      "filename": "095_roth-iras.md",
+      "title": "Roth IRAs",
+      "url": "https://www.irs.gov/retirement-plans/roth-iras"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.248619",
+      "filename": "097_salary-reduction-simplified-employee-pension-plan-sarsep.md",
+      "title": "Salary Reduction Simplified Employee Pension plan (SARSEP)",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/salary-reduction-simplified-employee-pension-plan-sarsep"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.249746",
+      "filename": "098_saving-for-retirement.md",
+      "title": "Saving for Retirement",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/saving-for-retirement"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.250935",
+      "filename": "099_simplified-employee-pension-plan-sep.md",
+      "title": "Simplified Employee Pension Plan (SEP)",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.252080",
+      "filename": "100_simple-ira-plan.md",
+      "title": "SIMPLE IRA Plan",
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.253217",
+      "filename": "101_substantially-equal-periodic-payments.md",
+      "title": "Substantially Equal Periodic Payments",
+      "url": "https://www.irs.gov/retirement-plans/substantially-equal-periodic-payments"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.254381",
+      "filename": "102_retirement-plans-startup-costs-tax-credit.md",
+      "title": "Retirement Plans Startup Costs Tax Credit",
+      "url": "https://www.irs.gov/retirement-plans/retirement-plans-startup-costs-tax-credit"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.255525",
+      "filename": "103_retirement-topics-termination-of-employment.md",
+      "title": "Termination of Employment in Retirement Plans",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-employment"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.256700",
+      "filename": "104_retirement-topics-termination-of-plan.md",
+      "title": "Termination of a Retirement Plan",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-termination-of-plan"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.257859",
+      "filename": "105_is-my-401k-top-heavy.md",
+      "title": "Is my 401(k) top-heavy?",
+      "url": "https://www.irs.gov/retirement-plans/is-my-401k-top-heavy"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.259008",
+      "filename": "106_valuation-of-plan-assets-at-fair-market-value.md",
+      "title": "Valuation of Plan Assets at Fair Market Value",
+      "url": "https://www.irs.gov/retirement-plans/valuation-of-plan-assets-at-fair-market-value"
+    },
+    {
+      "timestamp": "2025-12-30T15:58:41.260151",
+      "filename": "107_retirement-topics-vesting.md",
+      "title": "Vesting in a Retirement Plan",
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting"
     }
   ],
   "failed_attempts": [],
@@ -785,17 +1483,20 @@
     "search_quality": 1.0
   },
   "goal_progress": {
-    "timestamp": "2025-12-30T12:50:35.213379",
+    "timestamp": "2025-12-30T16:23:00.607896",
     "success": true,
-    "documents_indexed": 0,
-    "progress_percentage": 0.0,
+    "documents_indexed": 212,
+    "actual_db_count": 1,
+    "memory_count": 212,
+    "needs_reindex": false,
+    "progress_percentage": 100,
     "quality_metrics": {
       "timestamp": "2025-12-30T13:20:35.780934",
       "search_quality": 1.0
     },
     "failed_attempts": 0,
-    "status": "in_progress",
-    "recommendation": "Continue aggressive scraping and indexing",
-    "goal_reached": false
+    "status": "complete",
+    "recommendation": "Goal achieved! Knowledge base is complete.",
+    "goal_reached": true
   }
 }

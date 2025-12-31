@@ -4,6 +4,7 @@ ChromaDB indexing module for creating searchable knowledge base.
 from pathlib import Path
 import json
 import time
+import re
 from typing import Tuple
 
 from agno.knowledge.embedder.ollama import OllamaEmbedder
@@ -12,6 +13,55 @@ from agno.knowledge.knowledge import Knowledge
 from agno.knowledge.reader.text_reader import TextReader
 
 from .config import ScraperConfig
+
+
+def extract_acronyms(text: str) -> dict:
+    """
+    Extract acronyms and their expansions from text.
+    Matches patterns like: 'Full Term Name (ACRONYM)'
+    
+    Args:
+        text: Document content to search for acronyms
+        
+    Returns:
+        Dictionary mapping acronyms to their full terms
+    """
+    # Pattern: capitalized words followed by (CAPS)
+    pattern = r'([A-Z][A-Za-z\s&-]+?)\s*\(([A-Z]{2,})\)'
+    acronyms = {}
+    
+    for match in re.finditer(pattern, text):
+        full_term = match.group(1).strip()
+        acronym = match.group(2)
+        # Store acronym -> full term mapping
+        acronyms[acronym] = full_term
+    
+    return acronyms
+
+
+def augment_content_with_acronyms(content: str) -> str:
+    """
+    Add searchable acronym section to content for better semantic search.
+    
+    Args:
+        content: Original document content
+        
+    Returns:
+        Content with appended acronym mappings
+    """
+    acronyms = extract_acronyms(content)
+    
+    if not acronyms:
+        return content
+    
+    # Append acronym index at the end for semantic search
+    augmented = content + "\n\n## Document Acronyms:\n"
+    for acronym, expansion in acronyms.items():
+        # Add bidirectional mappings for better search
+        augmented += f"{acronym} stands for {expansion}. "
+        augmented += f"{expansion} is abbreviated as {acronym}. "
+    
+    return augmented
 
 
 class ChromaDBIndexer:
@@ -38,9 +88,9 @@ class ChromaDBIndexer:
         
         try:
             # Initialize embedder
-            print(f"LOG: Creating OllamaEmbedder ({self.config.ollama_model}, {self.config.ollama_embedding_dimensions} dimensions)...")
+            print(f"LOG: Creating OllamaEmbedder ({self.config.ollama_embedding_model}, {self.config.ollama_embedding_dimensions} dimensions)...")
             self.embeddings = OllamaEmbedder(
-                id=self.config.ollama_model,
+                id=self.config.ollama_embedding_model,
                 host=self.config.ollama_host,
                 dimensions=self.config.ollama_embedding_dimensions,
                 timeout=self.config.ollama_timeout
@@ -125,6 +175,12 @@ class ChromaDBIndexer:
         clean_content = self._extract_content_without_frontmatter(md_content)
         print(f"LOG:   ✓ Extracted content ({len(clean_content)} characters)")
         
+        # Augment content with acronym mappings for better search
+        searchable_content = augment_content_with_acronyms(clean_content)
+        if len(searchable_content) > len(clean_content):
+            acronym_count = len(extract_acronyms(clean_content))
+            print(f"LOG:   ✓ Added {acronym_count} acronym mappings for searchability")
+        
         # Prepare metadata for ChromaDB
         doc_metadata = {
             "number": metadata.get('number', 0),
@@ -138,13 +194,23 @@ class ChromaDBIndexer:
         
         print(f"LOG:   Indexing document: '{doc_metadata['documentTitle']}'")
         
-        # Use knowledge.add_content() with file path
-        self.knowledge.add_content(
-            path=str(md_file),
-            reader=TextReader(),
-            metadata=doc_metadata,
-            skip_if_exists=True
-        )
+        # Create temporary file with augmented content for indexing
+        # (Agno loads from file path, so we need to write augmented content)
+        temp_md_file = md_file.parent / f"temp_{md_file.name}"
+        temp_md_file.write_text(searchable_content, encoding='utf-8')
+        
+        try:
+            # Use knowledge.add_content() with augmented content file
+            self.knowledge.add_content(
+                path=str(temp_md_file),
+                reader=TextReader(),
+                metadata=doc_metadata,
+                skip_if_exists=True
+            )
+        finally:
+            # Clean up temporary file
+            if temp_md_file.exists():
+                temp_md_file.unlink()
         
         print(f"LOG: ✓ SUCCESS: Indexed {md_file.name}")
         self.indexed_count += 1
