@@ -6,7 +6,8 @@ An autonomous AI agent that scrapes IRS retirement documentation, processes it t
 
 ```
 retirement_glossary_scraper/
-├── main_agent.py                   # 🤖 Autonomous agent entry point
+├── main_agent.py                   # 🤖 Autonomous agent entry point (builds KB)
+├── query_agent.py                  # 🤖 Query agent for Q&A and tag extraction
 ├── query_retirement_glossary.py    # Query tool for searching the knowledge base
 ├── src/                            # Modular package components
 │   ├── __init__.py                 # Package initialization
@@ -17,7 +18,9 @@ retirement_glossary_scraper/
 │   ├── utils.py                    # Utility functions
 │   ├── agent_core.py               # 🤖 Autonomous agent with reasoning
 │   ├── agent_tools.py              # 🤖 Agent's 9 capabilities/tools
-│   └── agent_memory.py             # 🤖 Persistent memory system
+│   ├── agent_memory.py             # 🤖 Persistent memory system
+│   ├── query_agent_core.py         # 🤖 RAG agent for Q&A and tag extraction
+│   └── query_agent_tools.py        # 🤖 Tools for querying knowledge base
 ├── out/
 │   └── irs_retirement_topics/
 │       ├── raw/                    # Downloaded HTML files + JSON metadata
@@ -217,6 +220,60 @@ uv run main_agent.py
 uv run main_agent.py
 ```
 
+### Query Agent - Q&A and Tag Extraction
+
+The query agent provides two modes:
+
+#### 1. Q&A Mode (Interactive)
+
+Ask questions about retirement topics:
+
+```powershell
+cd retirement_glossary_scraper
+uv run query_agent.py
+```
+
+Then ask questions interactively:
+```
+Question: What are 401k contribution limits?
+Question: When do I need to take required minimum distributions?
+Question: quit
+```
+
+#### 2. Q&A Mode (Single Question)
+
+Get a single answer:
+
+```powershell
+uv run query_agent.py --question "What are Roth IRA contribution limits?"
+```
+
+#### 3. Tag Extraction Mode
+
+Extract retirement terms from text (for API integration):
+
+```powershell
+uv run query_agent.py --mode tags --text "I want to maximize my retirement savings with a 401k and Roth IRA"
+```
+
+Returns structured tags:
+```
+Extracted Tags:
+1. Term: 401(k) Plans
+   - Relevance: high
+   - Filename: 401k-plans.md
+   - URL: https://www.irs.gov/...
+   
+2. Term: Roth IRA
+   - Relevance: high
+   - Filename: roth-ira.md
+   - URL: https://www.irs.gov/...
+```
+
+**Tag Extraction Options:**
+- `--max-tags N`: Maximum tags to extract (default: 10)
+- Output includes document references for linking
+
 ### Query the Knowledge Base
 
 ```powershell
@@ -284,6 +341,25 @@ The agent uses a clean, modular architecture with clear separation of concerns:
 **Purpose**: Remembers past work across sessions  
 **Key Component**: `AgentMemory` class with JSON storage  
 **Tracks**: Sessions, scraped URLs, indexed docs, failed attempts, quality metrics, progress
+
+### Query Agent Modules
+
+#### `src/query_agent_core.py` - RAG Agent Brain
+**Purpose**: LLM-powered Q&A and tag extraction  
+**Key Component**: `RetirementQueryAgent(Agent)` with two modes (qa/tags)  
+**Capabilities**: Answer questions using RAG, extract relevant terms from text
+
+#### `src/query_agent_tools.py` - Query Capabilities
+**Purpose**: 5 @tool decorated functions for querying and analysis  
+**Tools**:
+- `search_glossary()` - Semantic search for Q&A
+- `extract_tags_from_text()` - Extract retirement terms from text
+- `get_document_references()` - Get full metadata for terms
+- `analyze_text_for_concepts()` - Identify retirement concepts in text
+
+**Use Cases**:
+- **Q&A**: User asks "What are 401k limits?" → Agent searches and synthesizes answer
+- **Tag Extraction**: API sends text → Agent extracts matching terms with document references for linking
 
 ## 🔧 Agent Configuration
 
